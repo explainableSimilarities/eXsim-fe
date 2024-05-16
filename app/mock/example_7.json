@@ -1,0 +1,1896 @@
+{
+  "entities": [
+      {
+          "entity": [
+              {
+                  "name": [
+                      "bn:01345473n"
+                  ],
+                  "type": "CONSTANT",
+                  "babelNetEntity": {
+                      "main_sense": "Franco_Battiato",
+                      "description": "Francesco \"Franco\" Battiato is an Italian singer-songwriter, composer, filmmaker and, under the pseudonym S\u00fcphan Barzani, also a painter.",
+                      "synonyms": [
+                          "S\u00fcphan_Barzani",
+                          "Suephan_Barzani",
+                          "Suphan_Barzani",
+                          "Francesco_Battiato",
+                          "Franco_Battiatio"
+                      ],
+                      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/F_Battiato.jpg"
+                  }
+              }
+          ],
+          "summary": {
+              "atoms": {
+                  "predicates": [
+                      {
+                          "type": "OTHER",
+                          "name": "PLACE_OF_BIRTH",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:01345473n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:01860437n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "OCCUPATION",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:01345473n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:15575636n",
+                                      "bn:00007287n",
+                                      "bn:00034485n",
+                                      "bn:00027369n"
+                                  ],
+                                  "type": "AGGREGATED_TERM"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "OCCUPATION",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:01345473n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00950514n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "OCCUPATION",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:01345473n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00021397n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "GENRE",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:01345473n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00587036n",
+                                      "bn:00059107n",
+                                      "bn:03202758n",
+                                      "bn:00789289n",
+                                      "bn:00005947n",
+                                      "bn:00007432n"
+                                  ],
+                                  "type": "AGGREGATED_TERM"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "HYPERNYM",
+                          "name": "HYPER",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:01345473n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00044576n",
+                                      "bn:00950514n"
+                                  ],
+                                  "type": "AGGREGATED_TERM"
+                              }
+                          ],
+                          "is_deriv": true
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "COUNTRY_OF_CITIZENSHIP",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:01345473n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00047705n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      }
+                  ]
+              },
+              "terms": [
+                  {
+                      "id": "bn:01860437n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:01860437n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Giarre-Riposto",
+                              "description": "Giarre-Riposto was a comune which existed in Sicily from 1935 to 1945.",
+                              "synonyms": [
+                                  "Jonia"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag-map_of_Sicily.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:15575636n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:15575636n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "painter",
+                              "description": "Artist who practices painting",
+                              "synonyms": [],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Dolceacqua43_-_Artista_locale_mentre_dipinge_un_acquarello.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00007287n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00007287n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "author",
+                              "description": "Writes (books or stories or articles or the like) professionally (for pay)",
+                              "synonyms": [
+                                  "Albanski",
+                                  "Auther",
+                                  "writer",
+                                  "Putative_author",
+                                  "Authored",
+                                  "writer",
+                                  "authorship",
+                                  "Authors",
+                                  "Putative_Author",
+                                  "Penwoman",
+                                  "Writers",
+                                  "As_told_to",
+                                  "Female_author",
+                                  "Authors",
+                                  "Authour",
+                                  "Authoress",
+                                  "Non-Fiction_authors",
+                                  "writer",
+                                  "writer",
+                                  "writer",
+                                  "Writter",
+                                  "writer",
+                                  "writer"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00950514n",
+                      "occurrences": 3,
+                      "full_repr": {
+                          "name": [
+                              "bn:00950514n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Singer-songwriter",
+                              "description": "Singer-songwriters are musicians who write, compose, and perform their own musical material, including lyrics and melodies.",
+                              "synonyms": [
+                                  "singer-songwriter",
+                                  "singer_songwriter",
+                                  "singersongwriter",
+                                  "Singer/Songwriter",
+                                  "Singer-songwriters",
+                                  "Singer\u2013songwriter",
+                                  "Singer-song_writer",
+                                  "singer/songwriter",
+                                  "Singer/songwriter",
+                                  "Singer-Songwriter",
+                                  "Cantautori",
+                                  "Singers-songwriter",
+                                  "Liedermacher",
+                                  "Singer_Songwriter",
+                                  "Singer_songwriter",
+                                  "Singersongwriter",
+                                  "Cantautore",
+                                  "Singer_songwriters",
+                                  "Singer_song_writer",
+                                  "Singer_and_songwriter"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Joan_Baez_Bob_Dylan_crop.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00034485n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00034485n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "screenwriter",
+                              "description": "Someone who writes screenplays",
+                              "synonyms": [
+                                  "Scriptwriters",
+                                  "Script-writer",
+                                  "Script_writers",
+                                  "Movie_writer",
+                                  "scenarist",
+                                  "scriptwriter",
+                                  "Screen_play_writers",
+                                  "Screenplay_writers",
+                                  "Screen_writer",
+                                  "Script_Writer",
+                                  "Screen_writers",
+                                  "writer",
+                                  "American_screenwriter",
+                                  "Film_writer",
+                                  "Script_writer",
+                                  "Screenwriters",
+                                  "Scenarists",
+                                  "Screen_play_writer",
+                                  "Scenario_writer",
+                                  "Screen-writer",
+                                  "Screenplay_writer",
+                                  "film_writer"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/P_culture.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00021397n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00021397n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "composer",
+                              "description": "Someone who composes music as a profession",
+                              "synonyms": [
+                                  "Musical_composer",
+                                  "Composer_(music)",
+                                  "Todd_Hayen_(composer)",
+                                  "Author_(music)",
+                                  "Music_composer",
+                                  "Music_Composer",
+                                  "Timothy_Thompson_(composer)",
+                                  "Clustering_of_composers"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Louis-Nicolas_Clerambault.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00027369n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00027369n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "film_director",
+                              "description": "The person who directs the making of a film",
+                              "synonyms": [
+                                  "Film_Directors",
+                                  "Movie_Director",
+                                  "director",
+                                  "movie_director",
+                                  "Movie_directing",
+                                  "Directorial",
+                                  "FilmDirectors",
+                                  "Movie_directors",
+                                  "director",
+                                  "Film_Director",
+                                  "Director_(film)",
+                                  "Movie_makers",
+                                  "Movie_direction",
+                                  "American_film_directors",
+                                  "Movie_director",
+                                  "Film_directing",
+                                  "Film_directors",
+                                  "Choppy_scene",
+                                  "Film_direction",
+                                  "director",
+                                  "director"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/P_culture.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00587036n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00587036n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Experimental_music",
+                              "description": "Experimental music is a general label for any music that pushes existing boundaries and genre definitions.",
+                              "synonyms": [
+                                  "experimental_music",
+                                  "Experimental_Music",
+                                  "Laboratory_music",
+                                  "Avantgarde_(music)",
+                                  "Experimental_music_genres",
+                                  "Experimental_electronic_music",
+                                  "Experimental_sound",
+                                  "Experimental_composers",
+                                  "Experimental_classical_music",
+                                  "Djentstep",
+                                  "Experimental_(music)"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Moodswinger.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00059107n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00059107n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "opera",
+                              "description": "A drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes",
+                              "synonyms": [
+                                  "Operatic_scene",
+                                  "Operatic",
+                                  "Operatics",
+                                  "The_Opera",
+                                  "Opera_singer",
+                                  "Operas",
+                                  "Opera_(Music)",
+                                  "Baroque_opera",
+                                  "Wikipedia:Opera_basic_topics",
+                                  "Opera_eroica",
+                                  "Opera_singers",
+                                  "Opera"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/P_culture.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:03202758n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:03202758n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Electro_(music)",
+                              "description": "Electro is a genre of electronic music and early hip hop directly influenced by the use of the Roland TR-808 drum machines, and funk.",
+                              "synonyms": [
+                                  "electro-funk",
+                                  "Electro-funk",
+                                  "Nu_Electro",
+                                  "Electro_music",
+                                  "Electro-disco",
+                                  "Electro_funk",
+                                  "1980s-electro",
+                                  "Electro_boogie",
+                                  "Electrocore",
+                                  "Neo-electro",
+                                  "electro-boogie",
+                                  "electro"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Model_500.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00789289n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00789289n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "pop_rock",
+                              "description": "Pop rock is rock music with a greater emphasis on professional songwriting and recording craft, and less emphasis on attitude.",
+                              "synonyms": [
+                                  "Pop/Rock",
+                                  "Guitar-pop",
+                                  "Guitar_pop_rock",
+                                  "poprock",
+                                  "Pop/rock_music",
+                                  "Rock/Pop",
+                                  "Guitar_pop",
+                                  "Pop-rock_music",
+                                  "Pop_Rock",
+                                  "Poprock",
+                                  "Rock/pop",
+                                  "Pop/rock",
+                                  "Melodic_Rock",
+                                  "Rock_pop",
+                                  "Pop-_rock",
+                                  "Pop_rock_music",
+                                  "Pop-rock",
+                                  "Pop-Rock",
+                                  "Rock_-_Pop",
+                                  "Pop_'n'_roll",
+                                  "Melodic_rock"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/PeterFrampton06.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00005947n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00005947n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "progressive_rock",
+                              "description": "A style of rock music that emerged in the 1970s; associated with attempts to combine rock with jazz and other forms; intended for listening and not dancing",
+                              "synonyms": [
+                                  "art_rock",
+                                  "Progressive_Rock",
+                                  "Progressive_rock_band",
+                                  "art_rock",
+                                  "prog_rock",
+                                  "prog",
+                                  "Art-rock",
+                                  "Technical_rock",
+                                  "Progrock",
+                                  "Rock_fusion",
+                                  "Prog_Rock",
+                                  "Neo-classical_rock",
+                                  "art_rock",
+                                  "New_prog",
+                                  "1970s_prog_rock",
+                                  "1990s_progressive_rock",
+                                  "1960s_prog_rock",
+                                  "1970s_progressive_rock",
+                                  "2000s_progressive_rock",
+                                  "2000s_prog_rock",
+                                  "1980s_progressive_rock",
+                                  "1980s_prog_rock",
+                                  "1960s_progressive_rock",
+                                  "1990s_prog_rock",
+                                  "Nu_prog",
+                                  "Prog-rock",
+                                  "Art_Rock",
+                                  "Concept_rock",
+                                  "Artrock",
+                                  "Progressive_Rock",
+                                  "Progressive_rock'n'roll",
+                                  "Conceptual_rock",
+                                  "Prog_rock",
+                                  "prog_rock",
+                                  "Scientific_rock",
+                                  "art_rock",
+                                  "New_Prog",
+                                  "1970's_British_progressive_rock_band",
+                                  "Progressive-rock",
+                                  "prog-rock",
+                                  "New-progressive_rock",
+                                  "New_progressive"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Yes_concert.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00007432n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00007432n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "avant-garde",
+                              "description": "Any creative group active in the innovation and application of new concepts and techniques in a given field (especially in the arts)",
+                              "synonyms": [
+                                  "New_Wave",
+                                  "Avantgarde",
+                                  "Avant-Garde",
+                                  "Avantgarde_artists",
+                                  "Adventgarde",
+                                  "New_wave",
+                                  "Avante-garde",
+                                  "New_wave_rock",
+                                  "Avante-garde_movement",
+                                  "new_wave_music",
+                                  "Avant_gard",
+                                  "New_Wave",
+                                  "Avante_garde",
+                                  "Avant_garde",
+                                  "Avantgarde_art",
+                                  "New_wave_punk",
+                                  "New_waver",
+                                  "Avantgarde",
+                                  "Avant-guard",
+                                  "New_Wave_(music)",
+                                  "New_Wave_revival",
+                                  "new_wave",
+                                  "avant-guard",
+                                  "Avant-gardes",
+                                  "New_wave_of_music",
+                                  "New_wave_movement",
+                                  "New_wave_music",
+                                  "New-wave_music",
+                                  "new_Wave_(music)",
+                                  "Avant_Garde",
+                                  "New_wave_of_rock_music",
+                                  "Avant-garde_art",
+                                  "British_new_wave_music",
+                                  "new_wave_(music)",
+                                  "New_Wave_music",
+                                  "New_Wave/Rock",
+                                  "New_wave_rock_music",
+                                  "New_Wave_Music",
+                                  "New_wave_Punk",
+                                  "New_Music_(1980s_Genre)",
+                                  "Avante_Garde",
+                                  "Nu_wave",
+                                  "New_wave_of_rock",
+                                  "New_wave_(music)",
+                                  "Avant-gardism",
+                                  "Avant-gardist",
+                                  "new_wave",
+                                  "van",
+                                  "vanguard",
+                                  "vanguard",
+                                  "new_wave",
+                                  "van"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/P_culture.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00044576n",
+                      "occurrences": 2,
+                      "full_repr": {
+                          "name": [
+                              "bn:00044576n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "human",
+                              "description": "Any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage",
+                              "synonyms": [
+                                  "man",
+                                  "human_being",
+                                  "hominid",
+                                  "homo",
+                                  "Human_Being",
+                                  "Horror_movie",
+                                  "Humxn",
+                                  "Human_habitat",
+                                  "Homo_species",
+                                  "Human_being",
+                                  "Homo_genus",
+                                  "justine",
+                                  "dado",
+                                  "human_being",
+                                  "humankind",
+                                  "person",
+                                  "people",
+                                  "User:Cool55225",
+                                  "Human_species",
+                                  "Homo_sapiens_sapiens",
+                                  "Huamn",
+                                  "Homo_diurnus",
+                                  "Tchadanthropus",
+                                  "Human_Beings",
+                                  "Humano",
+                                  "Atlanthropus",
+                                  "AMH",
+                                  "Telanthropus",
+                                  "Anatomically_modern_human",
+                                  "Hominans",
+                                  "Early_humans",
+                                  "Homo_(biology)",
+                                  "Protanthropus",
+                                  "Man_(anthropology_and_biology)",
+                                  "Cyphanthropus",
+                                  "Human_habitat_and_population",
+                                  "All_Humankind",
+                                  "Species_of_Homo",
+                                  "Humans_as_primates",
+                                  "Hominas",
+                                  "Hominan",
+                                  "People_of_this_planet",
+                                  "Homo_sapien",
+                                  "human_being",
+                                  "Hominina",
+                                  "man",
+                                  "Early_human",
+                                  "Homo_(genus)",
+                                  "Species_of_the_genus_Homo",
+                                  "homo",
+                                  "Africanthropus",
+                                  "Terran_(Homo_Sapien)",
+                                  "Pre-human",
+                                  "Homo",
+                                  "Human_kind",
+                                  "human_being",
+                                  "homo",
+                                  "man",
+                                  "Homo_sapiens"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Farmer_plowing_in_Fahrenwalde%2C_Mecklenburg-Vorpommern%2C_Germany.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00047705n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00047705n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Italy",
+                              "description": "A republic in southern Europe on the Italian Peninsula; was the core of the Roman Republic and the Roman Empire between the 4th century BC and the 5th century AD",
+                              "synonyms": [
+                                  "The_Italian_Republic",
+                                  "Italia",
+                                  "ItalY",
+                                  "Repubblica_Italiana",
+                                  "The_Italian_republic",
+                                  "ISO_3166-1:IT",
+                                  "Environment_of_Italy",
+                                  "Italian_Republic",
+                                  "Etymology_of_Italy",
+                                  "Italia",
+                                  "Subdivisions_of_Italy",
+                                  "Administrative_subdivisions_of_Italy",
+                                  "IT",
+                                  "Italija",
+                                  "Administrative_divisions_of_Italy",
+                                  "Itali\u00ebn",
+                                  "Pollution_in_Italy",
+                                  "Republic_of_Italy",
+                                  "It\u00e0lia",
+                                  "Itali",
+                                  "Italio",
+                                  "Austrian_Empire_(Italy)",
+                                  "Italie",
+                                  "Italians",
+                                  "Italian",
+                                  "Florence",
+                                  "ITALY",
+                                  "Italian_Republic",
+                                  "it",
+                                  "Italian_Republic",
+                                  "Republic_of_Italy",
+                                  "Italian_Republic",
+                                  "Italian_Republic",
+                                  "Italia"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg"
+                          }
+                      }
+                  }
+              ]
+          }
+      },
+      {
+          "entity": [
+              {
+                  "name": [
+                      "bn:03580005n"
+                  ],
+                  "type": "CONSTANT",
+                  "babelNetEntity": {
+                      "main_sense": "Rino_Gaetano",
+                      "description": "Salvatore Antonio \"Rino\" Gaetano was an Italian musician and singer-songwriter.",
+                      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Rino_Gaetano.jpg"
+                  }
+              }
+          ],
+          "summary": {
+              "atoms": {
+                  "predicates": [
+                      {
+                          "type": "OTHER",
+                          "name": "PLACE_OF_BIRTH",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:03580005n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:03691837n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "OCCUPATION",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:03580005n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00950514n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "OCCUPATION",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:03580005n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00021397n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "GENRE",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:03580005n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00068049n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "HYPERNYM",
+                          "name": "HYPER",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:03580005n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00044576n",
+                                      "bn:00950514n"
+                                  ],
+                                  "type": "AGGREGATED_TERM"
+                              }
+                          ],
+                          "is_deriv": true
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "COUNTRY_OF_CITIZENSHIP",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:03580005n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00047705n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      }
+                  ]
+              },
+              "terms": [
+                  {
+                      "id": "bn:03691837n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:03691837n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Crotone",
+                              "description": "Crotone is a city and comune in Calabria.",
+                              "synonyms": [
+                                  "Charles_V_Castle(Crotone)",
+                                  "Crotone,_Italy",
+                                  "Crotona",
+                                  "Cotrone",
+                                  "Charles_V_Castle_(Crotone)"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Europe_orthographic_Caucasus_Urals_boundary.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00950514n",
+                      "occurrences": 3,
+                      "full_repr": {
+                          "name": [
+                              "bn:00950514n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Singer-songwriter",
+                              "description": "Singer-songwriters are musicians who write, compose, and perform their own musical material, including lyrics and melodies.",
+                              "synonyms": [
+                                  "singer-songwriter",
+                                  "singer_songwriter",
+                                  "singersongwriter",
+                                  "Singer/Songwriter",
+                                  "Singer-songwriters",
+                                  "Singer\u2013songwriter",
+                                  "Singer-song_writer",
+                                  "singer/songwriter",
+                                  "Singer/songwriter",
+                                  "Singer-Songwriter",
+                                  "Cantautori",
+                                  "Singers-songwriter",
+                                  "Liedermacher",
+                                  "Singer_Songwriter",
+                                  "Singer_songwriter",
+                                  "Singersongwriter",
+                                  "Cantautore",
+                                  "Singer_songwriters",
+                                  "Singer_song_writer",
+                                  "Singer_and_songwriter"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Joan_Baez_Bob_Dylan_crop.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00021397n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00021397n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "composer",
+                              "description": "Someone who composes music as a profession",
+                              "synonyms": [
+                                  "Musical_composer",
+                                  "Composer_(music)",
+                                  "Todd_Hayen_(composer)",
+                                  "Author_(music)",
+                                  "Music_composer",
+                                  "Music_Composer",
+                                  "Timothy_Thompson_(composer)",
+                                  "Clustering_of_composers"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Louis-Nicolas_Clerambault.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00068049n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00068049n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "rock",
+                              "description": "A genre of popular music originating in the 1950s; a blend of black rhythm-and-blues with white country-and-western",
+                              "synonyms": [
+                                  "Rocknroll",
+                                  "Rock_'N'_Roll",
+                                  "1980s_rock",
+                                  "Rock_Song",
+                                  "Rock_Music",
+                                  "RockAndRoll",
+                                  "Rock-and-roll",
+                                  "Rock_'n'_roll",
+                                  "Rock_'n'_role",
+                                  "History_of_Rock_Music",
+                                  "Rock&roll",
+                                  "Rock_and_Roll_music",
+                                  "Racism_in_early_rock_music",
+                                  "Rock_\u2018n\u2019_Roll",
+                                  "Rock_musician",
+                                  "Rock_n'_role",
+                                  "Rock_n'_roll",
+                                  "Rock_And_Roll",
+                                  "Rock_&_Roll",
+                                  "Rock_anthem",
+                                  "2000s_rock_music",
+                                  "Rock_(genre)",
+                                  "2000s_rock",
+                                  "Rock_'n_role",
+                                  "Rock_'n_roll",
+                                  "Rock_\u2018n'_roll",
+                                  "Rock'n_roll",
+                                  "Rock_'n'_Rollah",
+                                  "Rock_n_Roll",
+                                  "Rock_n'_Roll",
+                                  "Rock_N_Roll",
+                                  "Rock_+_roll",
+                                  "Rock_+_role",
+                                  "1990s_Rock",
+                                  "Rock_N\u2019_Roll",
+                                  "Rock&Roll",
+                                  "Rock_music_in_the_1990s",
+                                  "rock_music",
+                                  "Racism_in_rock_music",
+                                  "Rock+role",
+                                  "Rock_&_role",
+                                  "Rock_&_roll",
+                                  "Rock+roll",
+                                  "1980s_Rock",
+                                  "Rock-n-roll",
+                                  "Dad_rock",
+                                  "Rock'n_roll_music",
+                                  "Rock_and_Roll_\uff0f'''Rock_n'_Roll'''",
+                                  "Rock_and_Roll_\uff0f_Rock_n'_Roll",
+                                  "rock_'n_roll",
+                                  "rock_'n'_roll",
+                                  "rock_and_roll",
+                                  "1980_in_rock",
+                                  "Rock_standard",
+                                  "rock_and_roll",
+                                  "Rock-'n'-roll",
+                                  "Rockmusic",
+                                  "Rock-n-Roll",
+                                  "Rock_&_roll_music",
+                                  "80's_Hits",
+                                  "History_of_rock_music",
+                                  "Rock_and_rol",
+                                  "Rock_\u2018n\u2019_roll",
+                                  "Rock_(music)",
+                                  "rock_music",
+                                  "Rock'n_Roll",
+                                  "User:TUF-KAT/Rock_and_roll",
+                                  "Rock_N'_Roll",
+                                  "80's_rock",
+                                  "Rock,_metal_and_punk",
+                                  "80s_rock",
+                                  "Rock_and/or_Roll",
+                                  "Rock_N'_roll",
+                                  "Rockandroll",
+                                  "Rock(music)",
+                                  "rock_and_roll",
+                                  "Rock_&_roll",
+                                  "rock_'n'_roll",
+                                  "rock_music",
+                                  "rock_and_Roll",
+                                  "Rock\u2019n\u2019roll",
+                                  "rock-and-roll",
+                                  "rock_music",
+                                  "rock_and_roll",
+                                  "Rock_'n'_Roll_music",
+                                  "Rock_'N_Roll",
+                                  "Rock_song",
+                                  "The_History_of_Rock_Music",
+                                  "Classic_rock_music",
+                                  "Rock_and_role",
+                                  "RockMusic",
+                                  "Rock'n'roll",
+                                  "Rock'n'Roll",
+                                  "Rock_music_in_the_1980s",
+                                  "Rock\u2019n_roll",
+                                  "Rock_'n'_Roll",
+                                  "Rock_\u2019n\u2019_Roll",
+                                  "Rock_and_Roll",
+                                  "Rock_'N'_Roll_Music",
+                                  "Rock_'n_Roll",
+                                  "Rawk",
+                                  "Rock_n_roll",
+                                  "Rock_n_role",
+                                  "Rock_&_Roll",
+                                  "Rock",
+                                  "rock_'n'_roll",
+                                  "rock_and_roll",
+                                  "rock-and-roll",
+                                  "rock'n'roll",
+                                  "rock_music",
+                                  "rock_music"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00044576n",
+                      "occurrences": 2,
+                      "full_repr": {
+                          "name": [
+                              "bn:00044576n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "human",
+                              "description": "Any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage",
+                              "synonyms": [
+                                  "man",
+                                  "human_being",
+                                  "hominid",
+                                  "homo",
+                                  "Human_Being",
+                                  "Horror_movie",
+                                  "Humxn",
+                                  "Human_habitat",
+                                  "Homo_species",
+                                  "Human_being",
+                                  "Homo_genus",
+                                  "justine",
+                                  "dado",
+                                  "human_being",
+                                  "humankind",
+                                  "person",
+                                  "people",
+                                  "User:Cool55225",
+                                  "Human_species",
+                                  "Homo_sapiens_sapiens",
+                                  "Huamn",
+                                  "Homo_diurnus",
+                                  "Tchadanthropus",
+                                  "Human_Beings",
+                                  "Humano",
+                                  "Atlanthropus",
+                                  "AMH",
+                                  "Telanthropus",
+                                  "Anatomically_modern_human",
+                                  "Hominans",
+                                  "Early_humans",
+                                  "Homo_(biology)",
+                                  "Protanthropus",
+                                  "Man_(anthropology_and_biology)",
+                                  "Cyphanthropus",
+                                  "Human_habitat_and_population",
+                                  "All_Humankind",
+                                  "Species_of_Homo",
+                                  "Humans_as_primates",
+                                  "Hominas",
+                                  "Hominan",
+                                  "People_of_this_planet",
+                                  "Homo_sapien",
+                                  "human_being",
+                                  "Hominina",
+                                  "man",
+                                  "Early_human",
+                                  "Homo_(genus)",
+                                  "Species_of_the_genus_Homo",
+                                  "homo",
+                                  "Africanthropus",
+                                  "Terran_(Homo_Sapien)",
+                                  "Pre-human",
+                                  "Homo",
+                                  "Human_kind",
+                                  "human_being",
+                                  "homo",
+                                  "man",
+                                  "Homo_sapiens"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Farmer_plowing_in_Fahrenwalde%2C_Mecklenburg-Vorpommern%2C_Germany.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00047705n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00047705n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Italy",
+                              "description": "A republic in southern Europe on the Italian Peninsula; was the core of the Roman Republic and the Roman Empire between the 4th century BC and the 5th century AD",
+                              "synonyms": [
+                                  "The_Italian_Republic",
+                                  "Italia",
+                                  "ItalY",
+                                  "Repubblica_Italiana",
+                                  "The_Italian_republic",
+                                  "ISO_3166-1:IT",
+                                  "Environment_of_Italy",
+                                  "Italian_Republic",
+                                  "Etymology_of_Italy",
+                                  "Italia",
+                                  "Subdivisions_of_Italy",
+                                  "Administrative_subdivisions_of_Italy",
+                                  "IT",
+                                  "Italija",
+                                  "Administrative_divisions_of_Italy",
+                                  "Itali\u00ebn",
+                                  "Pollution_in_Italy",
+                                  "Republic_of_Italy",
+                                  "It\u00e0lia",
+                                  "Itali",
+                                  "Italio",
+                                  "Austrian_Empire_(Italy)",
+                                  "Italie",
+                                  "Italians",
+                                  "Italian",
+                                  "Florence",
+                                  "ITALY",
+                                  "Italian_Republic",
+                                  "it",
+                                  "Italian_Republic",
+                                  "Republic_of_Italy",
+                                  "Italian_Republic",
+                                  "Italian_Republic",
+                                  "Italia"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg"
+                          }
+                      }
+                  }
+              ]
+          }
+      },
+      {
+          "entity": [
+              {
+                  "name": [
+                      "bn:03268833n"
+                  ],
+                  "type": "CONSTANT",
+                  "babelNetEntity": {
+                      "main_sense": "Francesco_Guccini",
+                      "description": "Francesco Guccini is an Italian singer-songwriter, considered one of the most important cantautori.",
+                      "synonyms": [
+                          "Guccini",
+                          "Amerigo_(LP)",
+                          "Amerigo_(album)"
+                      ],
+                      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Francesco_Guccini_1.jpg"
+                  }
+              }
+          ],
+          "summary": {
+              "atoms": {
+                  "predicates": [
+                      {
+                          "type": "OTHER",
+                          "name": "PLACE_OF_BIRTH",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:03268833n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:03464867n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "OCCUPATION",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:03268833n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00001176n",
+                                      "bn:00008155n",
+                                      "bn:00007287n"
+                                  ],
+                                  "type": "AGGREGATED_TERM"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "OCCUPATION",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:03268833n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00021397n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "GENRE",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:03268833n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00063557n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "HYPERNYM",
+                          "name": "HYPER",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:03268833n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00044576n",
+                                      "bn:00950514n"
+                                  ],
+                                  "type": "AGGREGATED_TERM"
+                              }
+                          ],
+                          "is_deriv": true
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "COUNTRY_OF_CITIZENSHIP",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:03268833n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00047705n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      }
+                  ]
+              },
+              "terms": [
+                  {
+                      "id": "bn:03464867n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:03464867n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Modena",
+                              "description": "Modena is a city and comune on the south side of the Po Valley, in the Province of Modena in the Emilia-Romagna region of northern Italy.",
+                              "synonyms": [
+                                  "Modna",
+                                  "Modena,_Italy",
+                                  "Piazza_Grande,_Modena",
+                                  "M\u00f2dena",
+                                  "M\u00f2dna",
+                                  "Mutina",
+                                  "Modena/Italy",
+                                  "Palazzo_Ducale_of_Modena",
+                                  "M\u00f3dena"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Europe_orthographic_Caucasus_Urals_boundary.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00001176n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00001176n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "actor",
+                              "description": "A theatrical performer",
+                              "synonyms": [
+                                  "player",
+                                  "player",
+                                  "thespian",
+                                  "role_player",
+                                  "histrion",
+                                  "American_actor",
+                                  "Theatre_actress",
+                                  "Theatre_actor",
+                                  "Film_actor",
+                                  "Stage_actors",
+                                  "Movie_actress",
+                                  "actress",
+                                  "Television_star",
+                                  "Television_actor",
+                                  "Film_or_stage_actor",
+                                  "Stage_actor",
+                                  "Joyu",
+                                  "Actor_&_Actress",
+                                  "actresses",
+                                  "actors",
+                                  "actors",
+                                  "actresses",
+                                  "Actors_and_Actresses",
+                                  "Theater_actor",
+                                  "American_actress",
+                                  "Actors_and_actresses",
+                                  "Film_Actor",
+                                  "Stage_actress",
+                                  "Player_(dating)",
+                                  "Actors",
+                                  "Film_actress",
+                                  "player",
+                                  "Craig_Watkinson",
+                                  "Actresses"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/P_culture.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00008155n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00008155n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "songster",
+                              "description": "A composer of words or music for popular songs",
+                              "synonyms": [
+                                  "songwriter",
+                                  "ballad_maker",
+                                  "Songwriters",
+                                  "Song_writer",
+                                  "songwriter",
+                                  "Song_Writer",
+                                  "Songsmith",
+                                  "song_writer",
+                                  "songwriter",
+                                  "Song-writer",
+                                  "Songsters",
+                                  "Song_writing",
+                                  "Song-writing",
+                                  "songwriter",
+                                  "Songwriting",
+                                  "Tune_writer"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Chris_de_Burgh_%28Kempten%29.JPG"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00007287n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00007287n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "author",
+                              "description": "Writes (books or stories or articles or the like) professionally (for pay)",
+                              "synonyms": [
+                                  "Albanski",
+                                  "Auther",
+                                  "writer",
+                                  "Putative_author",
+                                  "Authored",
+                                  "writer",
+                                  "authorship",
+                                  "Authors",
+                                  "Putative_Author",
+                                  "Penwoman",
+                                  "Writers",
+                                  "As_told_to",
+                                  "Female_author",
+                                  "Authors",
+                                  "Authour",
+                                  "Authoress",
+                                  "Non-Fiction_authors",
+                                  "writer",
+                                  "writer",
+                                  "writer",
+                                  "Writter",
+                                  "writer",
+                                  "writer"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00021397n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00021397n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "composer",
+                              "description": "Someone who composes music as a profession",
+                              "synonyms": [
+                                  "Musical_composer",
+                                  "Composer_(music)",
+                                  "Todd_Hayen_(composer)",
+                                  "Author_(music)",
+                                  "Music_composer",
+                                  "Music_Composer",
+                                  "Timothy_Thompson_(composer)",
+                                  "Clustering_of_composers"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Louis-Nicolas_Clerambault.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00063557n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00063557n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "pop",
+                              "description": "Music of general appeal to teenagers; a bland watered-down version of rock'n'roll with more rhythm and harmony and an emphasis on romantic love",
+                              "synonyms": [
+                                  "Pop",
+                                  "Pop_(genre)",
+                                  "List_of_pop_music_festivals",
+                                  "Pop_music_festival",
+                                  "M\u00fasica_pop",
+                                  "Pop_Music",
+                                  "Pop_songs",
+                                  "Pop_(music)",
+                                  "pop_music",
+                                  "Pop_music_festivals",
+                                  "Pop_festival",
+                                  "Popstar",
+                                  "Pop_starlets",
+                                  "Contemporary_pop",
+                                  "pop_music",
+                                  "Pop_song",
+                                  "pop_musician",
+                                  "Pop_(disambiguation)",
+                                  "Pop_music_(genre)",
+                                  "Pop-star",
+                                  "pop_music",
+                                  "Pop_sensibility",
+                                  "Pop_(music_genre)",
+                                  "Pop_(musical_genre)",
+                                  "PopStar",
+                                  "Popmusic",
+                                  "Pop-Star",
+                                  "Pop_musician",
+                                  "Pop_festivals",
+                                  "List_of_pop_festivals",
+                                  "pop_music"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Michael_Jackson_1984.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00044576n",
+                      "occurrences": 2,
+                      "full_repr": {
+                          "name": [
+                              "bn:00044576n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "human",
+                              "description": "Any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage",
+                              "synonyms": [
+                                  "man",
+                                  "human_being",
+                                  "hominid",
+                                  "homo",
+                                  "Human_Being",
+                                  "Horror_movie",
+                                  "Humxn",
+                                  "Human_habitat",
+                                  "Homo_species",
+                                  "Human_being",
+                                  "Homo_genus",
+                                  "justine",
+                                  "dado",
+                                  "human_being",
+                                  "humankind",
+                                  "person",
+                                  "people",
+                                  "User:Cool55225",
+                                  "Human_species",
+                                  "Homo_sapiens_sapiens",
+                                  "Huamn",
+                                  "Homo_diurnus",
+                                  "Tchadanthropus",
+                                  "Human_Beings",
+                                  "Humano",
+                                  "Atlanthropus",
+                                  "AMH",
+                                  "Telanthropus",
+                                  "Anatomically_modern_human",
+                                  "Hominans",
+                                  "Early_humans",
+                                  "Homo_(biology)",
+                                  "Protanthropus",
+                                  "Man_(anthropology_and_biology)",
+                                  "Cyphanthropus",
+                                  "Human_habitat_and_population",
+                                  "All_Humankind",
+                                  "Species_of_Homo",
+                                  "Humans_as_primates",
+                                  "Hominas",
+                                  "Hominan",
+                                  "People_of_this_planet",
+                                  "Homo_sapien",
+                                  "human_being",
+                                  "Hominina",
+                                  "man",
+                                  "Early_human",
+                                  "Homo_(genus)",
+                                  "Species_of_the_genus_Homo",
+                                  "homo",
+                                  "Africanthropus",
+                                  "Terran_(Homo_Sapien)",
+                                  "Pre-human",
+                                  "Homo",
+                                  "Human_kind",
+                                  "human_being",
+                                  "homo",
+                                  "man",
+                                  "Homo_sapiens"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Farmer_plowing_in_Fahrenwalde%2C_Mecklenburg-Vorpommern%2C_Germany.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00950514n",
+                      "occurrences": 2,
+                      "full_repr": {
+                          "name": [
+                              "bn:00950514n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Singer-songwriter",
+                              "description": "Singer-songwriters are musicians who write, compose, and perform their own musical material, including lyrics and melodies.",
+                              "synonyms": [
+                                  "singer-songwriter",
+                                  "singer_songwriter",
+                                  "singersongwriter",
+                                  "Singer/Songwriter",
+                                  "Singer-songwriters",
+                                  "Singer\u2013songwriter",
+                                  "Singer-song_writer",
+                                  "singer/songwriter",
+                                  "Singer/songwriter",
+                                  "Singer-Songwriter",
+                                  "Cantautori",
+                                  "Singers-songwriter",
+                                  "Liedermacher",
+                                  "Singer_Songwriter",
+                                  "Singer_songwriter",
+                                  "Singersongwriter",
+                                  "Cantautore",
+                                  "Singer_songwriters",
+                                  "Singer_song_writer",
+                                  "Singer_and_songwriter"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Joan_Baez_Bob_Dylan_crop.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00047705n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00047705n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Italy",
+                              "description": "A republic in southern Europe on the Italian Peninsula; was the core of the Roman Republic and the Roman Empire between the 4th century BC and the 5th century AD",
+                              "synonyms": [
+                                  "The_Italian_Republic",
+                                  "Italia",
+                                  "ItalY",
+                                  "Repubblica_Italiana",
+                                  "The_Italian_republic",
+                                  "ISO_3166-1:IT",
+                                  "Environment_of_Italy",
+                                  "Italian_Republic",
+                                  "Etymology_of_Italy",
+                                  "Italia",
+                                  "Subdivisions_of_Italy",
+                                  "Administrative_subdivisions_of_Italy",
+                                  "IT",
+                                  "Italija",
+                                  "Administrative_divisions_of_Italy",
+                                  "Itali\u00ebn",
+                                  "Pollution_in_Italy",
+                                  "Republic_of_Italy",
+                                  "It\u00e0lia",
+                                  "Itali",
+                                  "Italio",
+                                  "Austrian_Empire_(Italy)",
+                                  "Italie",
+                                  "Italians",
+                                  "Italian",
+                                  "Florence",
+                                  "ITALY",
+                                  "Italian_Republic",
+                                  "it",
+                                  "Italian_Republic",
+                                  "Republic_of_Italy",
+                                  "Italian_Republic",
+                                  "Italian_Republic",
+                                  "Italia"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg"
+                          }
+                      }
+                  }
+              ]
+          }
+      }
+  ],
+  "characterization": {
+      "predicates": [
+          {
+              "type": "OTHER",
+              "name": "PLACE_OF_BIRTH",
+              "terms": [
+                  {
+                      "name": [
+                          "bn:03580005n",
+                          "bn:03268833n",
+                          "bn:01345473n"
+                      ],
+                      "type": "FREE_VARIABLE"
+                  },
+                  {
+                      "name": [
+                          "bn:03691837n",
+                          "bn:03464867n",
+                          "bn:01860437n"
+                      ],
+                      "type": "BOUND_VARIABLE"
+                  }
+              ],
+              "is_deriv": false
+          },
+          {
+              "type": "OTHER",
+              "name": "OCCUPATION",
+              "terms": [
+                  {
+                      "name": [
+                          "bn:03580005n",
+                          "bn:03268833n",
+                          "bn:01345473n"
+                      ],
+                      "type": "FREE_VARIABLE"
+                  },
+                  {
+                      "name": [
+                          "bn:00021397n"
+                      ],
+                      "type": "CONSTANT"
+                  }
+              ],
+              "is_deriv": false
+          },
+          {
+              "type": "OTHER",
+              "name": "GENRE",
+              "terms": [
+                  {
+                      "name": [
+                          "bn:03580005n",
+                          "bn:03268833n",
+                          "bn:01345473n"
+                      ],
+                      "type": "FREE_VARIABLE"
+                  },
+                  {
+                      "name": [
+                          "bn:00068049n",
+                          "bn:00063557n",
+                          "bn:00587036n",
+                          "bn:00059107n",
+                          "bn:03202758n",
+                          "bn:00789289n",
+                          "bn:00005947n",
+                          "bn:00007432n"
+                      ],
+                      "type": "BOUND_VARIABLE"
+                  }
+              ],
+              "is_deriv": false
+          },
+          {
+              "type": "OTHER",
+              "name": "COUNTRY_OF_CITIZENSHIP",
+              "terms": [
+                  {
+                      "name": [
+                          "bn:03580005n",
+                          "bn:03268833n",
+                          "bn:01345473n"
+                      ],
+                      "type": "FREE_VARIABLE"
+                  },
+                  {
+                      "name": [
+                          "bn:00047705n"
+                      ],
+                      "type": "CONSTANT"
+                  }
+              ],
+              "is_deriv": false
+          },
+          {
+              "type": "HYPERNYM",
+              "name": "HYPER",
+              "terms": [
+                  {
+                      "name": [
+                          "bn:03580005n",
+                          "bn:03268833n",
+                          "bn:01345473n"
+                      ],
+                      "type": "FREE_VARIABLE"
+                  },
+                  {
+                      "name": [
+                          "bn:00044576n",
+                          "bn:00950514n"
+                      ],
+                      "type": "AGGREGATED_TERM"
+                  }
+              ],
+              "is_deriv": true
+          }
+      ]
+  }
+}

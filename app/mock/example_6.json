@@ -1,0 +1,2230 @@
+{
+  "entities": [
+      {
+          "entity": [
+              {
+                  "name": [
+                      "bn:02342584n"
+                  ],
+                  "type": "CONSTANT",
+                  "babelNetEntity": {
+                      "main_sense": "The_Lord_of_the_Rings",
+                      "description": "The Lord of the Rings is an epic high fantasy novel written by English author and scholar J. R. R. Tolkien.",
+                      "synonyms": [
+                          "Lord_of_the_Rings",
+                          "Lord_of_the_Rings_(TV_series)",
+                          "Battle_of_Ithilien",
+                          "Battle_of_the_Peak",
+                          "Lords_of_the_ring",
+                          "Battle_of_Amon_Hen",
+                          "Attack_on_Amon_Hen",
+                          "Ambush_at_Ithilien",
+                          "The_Lord_of_the_Rings_(Trilogy)",
+                          "The_Lord_of_the_rings",
+                          "Tolkienesque",
+                          "Their_taking_the_hobbits_to_isengard",
+                          "TLOTR",
+                          "Lord_of_The_Rings",
+                          "Minority_criticisms_of_The_Lord_of_the_Rings",
+                          "TLotR",
+                          "''_The_Lord_of_the_Rings_''",
+                          "TLotR",
+                          "The_Lord_of_the_Rings_(novel)",
+                          "Lord_of_the_rigns",
+                          "LoTR",
+                          "Lord_Of_The_Rings",
+                          "Lord_of_the_Rings_trilogy",
+                          "The_Lord_of_the_Rings_Trilogy",
+                          "Lord_of_the_rings",
+                          "There_taking_the_hobbits_to_isengard",
+                          "JRR_Tolkien/The_Lord_of_the_Rings",
+                          "LotR",
+                          "Minority_criticisms_of_the_Lord_of_the_Rings",
+                          "Lord_of_the_rings_book",
+                          "They_taking_the_hobbits_to_isengard",
+                          "The_Lord_of_the_Ring",
+                          "The_lord_of_the_rings",
+                          "Lord_of_the_ring",
+                          "Lord_of_the_Ring",
+                          "The_Lord_of_The_Rings",
+                          "The_lord_of_the_ring",
+                          "The_Lord_of_the_Rings_trilogy",
+                          "They're_taking_the_hobbits_to_isengard",
+                          "The_Council_of_Elrond",
+                          "The_Lord_Of_The_Rings",
+                          "Lord_of_the_Rings",
+                          "Lord_of_the_Rings",
+                          "Ash_nazg",
+                          "LOTR",
+                          "Gimli",
+                          "Gimli_son_of_Gl\u00f3in",
+                          "Foreword_to_The_Lord_of_the_Rings",
+                          "LotR",
+                          "Lord_of_the_Rings"
+                      ],
+                      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Unico_Anello.png"
+                  }
+              }
+          ],
+          "summary": {
+              "atoms": {
+                  "predicates": [
+                      {
+                          "type": "OTHER",
+                          "name": "CHARACTERS",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:02342584n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:01487066n",
+                                      "bn:03453024n",
+                                      "bn:01467354n",
+                                      "bn:01487045n",
+                                      "bn:03326980n",
+                                      "bn:01330259n",
+                                      "bn:03463593n",
+                                      "bn:01625250n",
+                                      "bn:01625246n",
+                                      "bn:01625290n",
+                                      "bn:03421989n",
+                                      "bn:01625220n",
+                                      "bn:01111055n",
+                                      "bn:01625189n"
+                                  ],
+                                  "type": "AGGREGATED_TERM"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "GENRE",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:02342584n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:01669238n",
+                                      "bn:00058201n"
+                                  ],
+                                  "type": "AGGREGATED_TERM"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "GENRE",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:02342584n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:06315186n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "AUTHOR",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:02342584n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00047783n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "PUBLISHER",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:02342584n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:02638386n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "HYPERNYM",
+                          "name": "HYPER",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:02342584n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:16136963n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": true
+                      },
+                      {
+                          "type": "HYPERNYM",
+                          "name": "HYPER",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:02342584n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:03877336n",
+                                      "bn:00012059n"
+                                  ],
+                                  "type": "AGGREGATED_TERM"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "ORIGINAL_LANGUAGE_OF_WORK",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:02342584n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00030862n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "DESCRIBES_THE_FICTIONAL_UNIVERSE",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:02342584n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:03608130n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      }
+                  ]
+              },
+              "terms": [
+                  {
+                      "id": "bn:01487066n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:01487066n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Peregrin_Took",
+                              "description": "Peregrin Took, more commonly known simply as Pippin, is a fictional character from J. R. R. Tolkien's fantasy novel The Lord of the Rings.",
+                              "synonyms": [
+                                  "Pippin_the_hobbit",
+                                  "Razar_Tuk",
+                                  "Pippin_Took",
+                                  "Razanur_T\u00fbk",
+                                  "Razar_T\u00fbk",
+                                  "Pip_Took",
+                                  "Fool_of_a_took",
+                                  "Peregrin_I",
+                                  "Razanur_Tuk",
+                                  "Pippin_Took"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Arda.Tengwar.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:03453024n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:03453024n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Boromir",
+                              "description": "Boromir is a fictional character in J. R. R. Tolkien's legendarium.",
+                              "synonyms": [
+                                  "One_does_not_simply_walk_into_Mordor"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Boromir.png"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:01467354n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:01467354n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Faramir",
+                              "description": "In J. R. R. Tolkien's Middle-earth legendarium, Faramir is a fictional character appearing in The Lord of the Rings.",
+                              "synonyms": [
+                                  "Faromir"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Faramir-tj01.JPG"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:01487045n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:01487045n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Meriadoc_Brandybuck",
+                              "description": "Meriadoc Brandybuck, usually referred to as simply Merry, is a fictional character from J. R. R. Tolkien's Middle-earth legendarium, featured throughout his most famous work, The Lord of the Rings.",
+                              "synonyms": [
+                                  "Marmaduke_Brandybuck",
+                                  "Merry_Brandybuck",
+                                  "Kali_Brandagamba",
+                                  "Holdwine",
+                                  "Kalimac_Brandagamba",
+                                  "Meriadock_Brandybuck",
+                                  "Merry_Brandybuck"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Arda.Tengwar.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:03326980n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:03326980n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Gandalf",
+                              "description": "Gandalf is a fictional character and one of the protagonists in J. R. R. Tolkien's novels The Hobbit and The Lord of the Rings.",
+                              "synonyms": [
+                                  "Gandalf_the_Grey",
+                                  "Gandalf_the_White",
+                                  "Gandalf_the_gray",
+                                  "Gandalf_Stormcrow",
+                                  "Ol\u00f3rin",
+                                  "Gandalf_the_Gray",
+                                  "Ol\u00f3rin",
+                                  "Mithrandir",
+                                  "Tharkun",
+                                  "You_shall_not_pass!",
+                                  "Thark\u00fbn",
+                                  "Ganadalf",
+                                  "Olorin",
+                                  "Gandalv",
+                                  "Gandalf_Greyhame",
+                                  "Gandalf_the_Grey",
+                                  "Greyhame",
+                                  "Mithrandir",
+                                  "Lathspell",
+                                  "You_shall_not_pass",
+                                  "Gandalf_the_White",
+                                  "Bladorthin",
+                                  "Stormcrow",
+                                  "Gandlaf"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/GANDALF.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:01330259n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:01330259n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Gimli_(Middle-earth)",
+                              "description": "Gimli is a fictional character from J. R. R. Tolkien's Middle-earth legendarium, featured in The Lord of the Rings.",
+                              "synonyms": [
+                                  "Gimli_son_of_Gl\u00f3in",
+                                  "Gimli",
+                                  "Lockbearer",
+                                  "GimIi",
+                                  "Gimli_(Middle_Earth)",
+                                  "Gimli_(Dwarf)",
+                                  "Gimli_son_of_Gl\u00f3in",
+                                  "Gimli_(Lord_of_the_Rings)",
+                                  "Gimli_(Middle-Earth)",
+                                  "Gimli_son_of_Gloin"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gimli_son_of_Gloin_by_Perrie_Nicholas_Smith.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:03463593n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:03463593n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Samwise_Gamgee",
+                              "description": "Samwise \"Sam\" Gamgee is a fictional character in J. R. R. Tolkien's legendarium.",
+                              "synonyms": [
+                                  "Samwise_Gardner",
+                                  "Sam_Gamgee",
+                                  "Banazir",
+                                  "Ban_Galpsi",
+                                  "Banazir_Galpsi",
+                                  "Samwise_Gangee",
+                                  "Sam_Gardner",
+                                  "Samwise_Gardener",
+                                  "Banaz\u00eer_Galpsi",
+                                  "Banazir_Galbasi",
+                                  "Galabas"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Arda.Tengwar.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:01625250n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:01625250n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Galadriel",
+                              "description": "Galadriel is a fictional character created by J.R.R. Tolkien, appearing in his Middle-earth legendarium.",
+                              "synonyms": [
+                                  "Lady_of_L\u00f3rien",
+                                  "Galadrial",
+                                  "Nerwen",
+                                  "Lady_Galadriel",
+                                  "Lady_of_Lorien",
+                                  "Alt\u00e1riel",
+                                  "Alatariel",
+                                  "Alat\u00e1riel"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Lothlorien_by_Tessa_Boronski.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:01625246n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:01625246n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Frodo_Baggins",
+                              "description": "Frodo Baggins is a fictional character in J. R. R. Tolkien's legendarium, and one of the main protagonists of The Lord of the Rings.",
+                              "synonyms": [
+                                  "Daur_(Frodo)",
+                                  "Frodo_(Tolkien)",
+                                  "Maura_Labingi",
+                                  "JRR_Tolkien/Frodo_Baggins",
+                                  "Frodo_baggins",
+                                  "FrodoBaggins",
+                                  "BAGGINS,_FRODO",
+                                  "Frodo"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Frodo_by_Mark_Ferrari.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:01625290n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:01625290n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Legolas",
+                              "description": "Legolas is a fictional character in J. R. R. Tolkien's legendarium.",
+                              "synonyms": [
+                                  "Greenleaf",
+                                  "Legolas_Thranduilion",
+                                  "Legolas_Greenleaf",
+                                  "Legolas_Greenleaf"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Legolas.png"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:03421989n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:03421989n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Bilbo_Baggins",
+                              "description": "Bilbo Baggins is the title character and protagonist of J. R. R. Tolkien's 1937 novel The Hobbit, as well as a supporting character in The Lord of the Rings.",
+                              "synonyms": [
+                                  "Bilbo_baggins",
+                                  "Bilbo_Bagggins",
+                                  "Bilba_Labingi"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Over_Hill_-_Bilbo_and_Gandalf_by_Joel_Lee.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:01625220n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:01625220n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Elrond",
+                              "description": "Elrond Half-elven is a fictional character in J. R. R. Tolkien's Middle-earth legendarium.",
+                              "synonyms": [
+                                  "Elerondo"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Arda.Tengwar.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:01111055n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:01111055n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Saruman",
+                              "description": "Saruman the White is a fictional character and a major antagonist in J. R. R. Tolkien's fantasy novel The Lord of the Rings.",
+                              "synonyms": [
+                                  "Aruman",
+                                  "Curun\u00edr",
+                                  "Saruman_the_White",
+                                  "Shark\u00fb",
+                                  "Sauruman",
+                                  "Sarumon",
+                                  "Curunir",
+                                  "Curumo",
+                                  "Saruman_of_Many_Colors",
+                                  "Saruman_the_White",
+                                  "Saruman_of_Many_Colors",
+                                  "Curumo"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Curun%C3%ADr.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:01625189n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:01625189n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Aragorn",
+                              "description": "Aragorn II, son of Arathorn is a fictional character from J. R. R. Tolkien's legendarium.",
+                              "synonyms": [
+                                  "sun_of_quaraquorn",
+                                  "King_Elessar",
+                                  "Thorongil",
+                                  "Aragorn_II,_son_of_Arathorn",
+                                  "Envinyatar",
+                                  "Aragorn_II_Elessar",
+                                  "Aragorn_son_of_Arathorn",
+                                  "Aragorn_II",
+                                  "Trotter_(Lord_of_the_Rings)",
+                                  "Trotter_(The_Lord_of_the_Rings)",
+                                  "Elessar_Telcontar",
+                                  "Telcontar",
+                                  "Estel_(middle_earth_name)",
+                                  "Gilraen",
+                                  "Edhelharn",
+                                  "Aragorn,_son_of_Arathorn"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Aragorn.png"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:06315186n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:06315186n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "fantasy_novel",
+                              "description": "Literary genre",
+                              "synonyms": [
+                                  "speculative_fiction_novel"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Books-aj.svg_aj_ashton_01g.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:01669238n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:01669238n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "fantasy",
+                              "description": "Fantasy is a genre of fiction set in a fictional universe, often without any locations, events, or people referencing the real world.",
+                              "synonyms": [
+                                  "Fantasy_(genre)",
+                                  "Fantasy_Fiction",
+                                  "Portal_fantasy",
+                                  "Fantasy_(word)",
+                                  "Intrusion_fantasy",
+                                  "Subgenres_of_fantasy",
+                                  "Fantasy_series",
+                                  "Immersive_fantasy",
+                                  "Liminal_fantasy",
+                                  "Fnatasy",
+                                  "Fantasy_genre",
+                                  "Fantasy_(fiction)",
+                                  "Fantasy_fiction",
+                                  "Fantasy_writer",
+                                  "Fantasists",
+                                  "Fantasy_Writing",
+                                  "Fantasies",
+                                  "Fantasy_(Word)",
+                                  "Portal-quest_fantasy",
+                                  "fantasy_fiction"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Icon_talk.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00058201n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00058201n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "novel",
+                              "description": "An extended fictional work in prose; usually in the form of a story",
+                              "synonyms": [
+                                  "History_of_novels",
+                                  "Novelistical",
+                                  "The_novel",
+                                  "Novelistic",
+                                  "Literary_novel",
+                                  "Novelistically",
+                                  "Novels",
+                                  "Poetic_Novel",
+                                  "History_of_the_novel",
+                                  "Modern_novel",
+                                  "Histories_(history_of_the_novel)",
+                                  "Proto-novels",
+                                  "Early_novels",
+                                  "Candidates_for_the_first_novel",
+                                  "Proto-novel",
+                                  "Novel_(literature)"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Grandes_chroniques_Roland.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00047783n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00047783n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "J.R.R._Tolkien",
+                              "description": "British philologist and writer of fantasies (born in South Africa) (1892-1973)",
+                              "synonyms": [
+                                  "John_Ronald_Reuel_Tolkien",
+                                  "Tolkien",
+                                  "Tolkien,_J._R._R.",
+                                  "J.r.r._tolkien",
+                                  "John_R._R._Tolkien",
+                                  "John_Ronald_Reuel_Tolkien",
+                                  "Tolkein",
+                                  "J.R.R_Tolkien",
+                                  "John_Ronald_Reuel",
+                                  "J._R._R._Tolkein",
+                                  "J.R.R._Tolkein",
+                                  "Jrr_tolkien",
+                                  "J_R._R._Tolkein",
+                                  "J.R.R.Tolkien",
+                                  "J._R._R_Tolkien",
+                                  "J_R_R_Tolkien",
+                                  "Tolkien_Mountain",
+                                  "J_R_R_Tolkein",
+                                  "J_Tolkien",
+                                  "JRR_Tolkien",
+                                  "J.R.R_Tolkein",
+                                  "JRRTolkieN",
+                                  "Ronald_Tolkien",
+                                  "Tolkien_and_racism",
+                                  "J._R._Tolkien",
+                                  "John_R.R._Tolkien",
+                                  "John_Tolkien",
+                                  "Mabel_Suffield",
+                                  "Tea_Club_and_Barrovian_Society",
+                                  "John_Ronald_Reuel_Tolkien_CBE",
+                                  "JRRT",
+                                  "J.R.R.Tolkein",
+                                  "Jrr_tolkiein",
+                                  "J._R.R._Tolkien",
+                                  "J._R._R._Tolkien",
+                                  "J._R._R._Tolkien_Collection",
+                                  "J._R._R._R._R._Tolkien",
+                                  "J._Tolkien",
+                                  "J.R._R._Tolkien",
+                                  "Tolkien,_John_Ronald_Reuel",
+                                  "Tolkien",
+                                  "J.R.R._Tolkien's",
+                                  "John_Tolkein",
+                                  "J.r.r.",
+                                  "J._R._R._Tolkien",
+                                  "Jrr_Tolkien",
+                                  "John_Ronald_Reuel_Tolkien",
+                                  "Tolkien,_J._R._R.",
+                                  "Tolkien",
+                                  "Tolkien",
+                                  "John_Ronald_Reuel_Tolkien,_CBE",
+                                  "J._R._R._Tolkien\u2019s",
+                                  "Tolkienian",
+                                  "JRR_Tolkien's_Mountain",
+                                  "JRRTolkien",
+                                  "JRR_Tolkein",
+                                  "J._R._R._Tolkien",
+                                  "John_Ronald_Reuel_Tolkien"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:02638386n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:02638386n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Allen_&_Unwin",
+                              "description": "Allen & Unwin is an Australian independent publishing company, established in Australia in 1976 as a subsidiary of the British firm George Allen & Unwin Ltd., which was founded by Sir Stanley Unwin in August 1914 and went on to become one of the leading publishers of the twentieth century.",
+                              "synonyms": [
+                                  "Allen_And_Unwin",
+                                  "Allen_and_Unwin",
+                                  "George_Allen_&_Unwin_Ltd",
+                                  "George_Allen_and_Unwin",
+                                  "G._Allen_&_Unwin",
+                                  "George_Allen_&_Unwin_Ltd.",
+                                  "George_Allen_&_Unwin",
+                                  "Unwin_Hyman",
+                                  "Allen_and_Unwin",
+                                  "Allen_and_unwin"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/en/7/7d/Allen-unwin-logo.PNG"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:03877336n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:03877336n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Fantasy_literature",
+                              "description": "Fantasy literature is literature set in an imaginary universe, often but not always without any locations, events, or people from the real world.",
+                              "synonyms": [
+                                  "Fantasy_Books",
+                                  "Fantasy_books",
+                                  "Fantasy_novels",
+                                  "Fantasy_book",
+                                  "fantasy_literature",
+                                  "Fantasy_novel",
+                                  "Fantastic_fiction"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dobryna.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00012059n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00012059n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "book",
+                              "description": "A written work or composition that has been published (printed on pages bound together)",
+                              "synonyms": [
+                                  "Book_and_paper_conservation",
+                                  "\ud83d\udd6e",
+                                  "\ud83d\udcd9",
+                                  "\ud83d\udcd8",
+                                  "\ud83d\udcd7",
+                                  "\ud83d\udcd5",
+                                  "\ud83d\udcda",
+                                  "books",
+                                  "Books",
+                                  "Booke",
+                                  "Textbooks",
+                                  "Books"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/A_livre_ouvert_2.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00030862n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00030862n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "English_language",
+                              "description": "An Indo-European language belonging to the West Germanic branch; the official language of Britain and the United States and most of the commonwealth countries",
+                              "synonyms": [
+                                  "English",
+                                  "English_speaking",
+                                  "English-speaker",
+                                  "Saozneg",
+                                  "Anglesc",
+                                  "eng",
+                                  "English_language.",
+                                  "Number_of_words_in_the_English_language",
+                                  "Geographical_distribution_of_english",
+                                  "Idioma_ingl\u00e9s",
+                                  "English_vocabulary",
+                                  "ISO_639:en",
+                                  "Sudanese_English",
+                                  "English_Language",
+                                  "Englishlanguage",
+                                  "English_Language_Word_Count",
+                                  "\u0907\u0902\u0917\u094d\u0930\u091c\u0940_language",
+                                  "English_(language)",
+                                  "Ingl\u00e9s",
+                                  "Geographic_distribution_of_English",
+                                  "English_the_Global_Language",
+                                  "Non-English",
+                                  "Number_of_English_words",
+                                  "English_languge",
+                                  "Number_of_words_in_English",
+                                  "ISO_639:eng",
+                                  "English_langauge",
+                                  "Countries_that_teach_english_as_a_foreign_language",
+                                  "Vernacular_English",
+                                  "English_Vernacular",
+                                  "Engleski",
+                                  "English_speakers",
+                                  "The_English_language",
+                                  "The_English_Language",
+                                  "Number_of_Words_in_English",
+                                  "Geographical_distribution_of_English",
+                                  "Englische_Sprache",
+                                  "English_lexicon",
+                                  "Angla_lingvo",
+                                  "English-language",
+                                  "The_English_Langauge",
+                                  "English_vernacular",
+                                  "Spoken_English",
+                                  "Vernacular_english",
+                                  "English_(langauge)",
+                                  "Number_of_Words_in_the_English_Language",
+                                  "English-language_debut",
+                                  "English_medium",
+                                  "Geographic_distribution_of_english",
+                                  "English",
+                                  "en",
+                                  "English"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:03608130n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:03608130n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Tolkien's_legendarium",
+                              "description": "Tolkien's legendarium is the body of J. R. R. Tolkien's mythopoetic writing that forms the background to his The Lord of the Rings.",
+                              "synonyms": [
+                                  "legendarium",
+                                  "legendarium",
+                                  "Middle-earth_writings",
+                                  "Legendarium",
+                                  "Middle-earth_legendarium",
+                                  "Tolkien_mythology"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Legendarium.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:16136963n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:16136963n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "book",
+                              "description": "A literary genre is a category of literary composition.",
+                              "synonyms": [
+                                  "literary_genre",
+                                  "Literature_Genres",
+                                  "Genres_of_Literacy",
+                                  "Genres_of_Literary",
+                                  "Genre_of_Books",
+                                  "book_genre",
+                                  "Literacy_Genres",
+                                  "Genre_(literature)",
+                                  "Literary_forms",
+                                  "Genres_of_Novels",
+                                  "Literacy_Genre",
+                                  "Literature_Genre",
+                                  "Book_Genres",
+                                  "Genres_of_Books",
+                                  "Literary_genres",
+                                  "Genres_of_Literature",
+                                  "Literary_form",
+                                  "Literary_genre"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Britannica_Shakespeare_Roubiliac.jpg"
+                          }
+                      }
+                  }
+              ]
+          }
+      },
+      {
+          "entity": [
+              {
+                  "name": [
+                      "bn:01715023n"
+                  ],
+                  "type": "CONSTANT",
+                  "babelNetEntity": {
+                      "main_sense": "Harry_Potter",
+                      "description": "Harry Potter is a series of fantasy novels written by British author J. K. Rowling.",
+                      "synonyms": [
+                          "Magical_Britain",
+                          "Harry_Potter_(novel_series)",
+                          "Harry_Potter_Further_Reading",
+                          "Harry_Potter_trivia",
+                          "Harry-Potter",
+                          "Harry_Potter_(franchise)",
+                          "Potter_Harry",
+                          "Events_and_Chronology_of_Harry_Potter",
+                          "Harry_Potter_mysteries",
+                          "Harry-potter",
+                          "Harry_Poter",
+                          "The_Potterverse",
+                          "Harry_potter",
+                          "Hairy_potter",
+                          "Magnolia_Crescent",
+                          "Harry_potter_series",
+                          "Harry_Potter_series",
+                          "Anti-Harry_Potter_community",
+                          "HARRY_POTTER",
+                          "Harry_Potter_books",
+                          "Harry_Potter_series",
+                          "Harry_p",
+                          "Books_in_the_Harry_Potter_series",
+                          "Harry_Potter_(series)",
+                          "Harry_Potter_(games)",
+                          "Harry_potter_subjects",
+                          "Harry,_Ron_and_Hermione",
+                          "Harry_Potter:_Hogwarts_Mystery",
+                          "Harry_Potter_censorship",
+                          "J_k_rowling_books",
+                          "Hary_poter",
+                          "Harrypotter",
+                          "Harry_Potter_franchise",
+                          "Harry_Potter_(play)",
+                          "Harry_Potter_(video_games)",
+                          "Hary_Potter",
+                          "Harry_Potter_Criticism",
+                          "List_of_Harry_Potter_books",
+                          "Harry_Potter_(plot)",
+                          "Harry_potter_Novels"
+                      ],
+                      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Harry_Potter_7_boxes.JPG"
+                  }
+              }
+          ],
+          "summary": {
+              "atoms": {
+                  "predicates": [
+                      {
+                          "type": "OTHER",
+                          "name": "CHARACTERS",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:01715023n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:05703843n",
+                                      "bn:14790026n",
+                                      "bn:03196962n",
+                                      "bn:13953494n",
+                                      "bn:03209333n",
+                                      "bn:01187658n",
+                                      "bn:03209476n",
+                                      "bn:03594744n",
+                                      "bn:03213301n"
+                                  ],
+                                  "type": "AGGREGATED_TERM"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "GENRE",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:01715023n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:04092519n",
+                                      "bn:14287099n",
+                                      "bn:06447430n"
+                                  ],
+                                  "type": "AGGREGATED_TERM"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "GENRE",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:01715023n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:06315186n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "AUTHOR",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:01715023n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00840856n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "PUBLISHER",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:01715023n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:16485824n",
+                                      "bn:03585514n",
+                                      "bn:02265902n"
+                                  ],
+                                  "type": "AGGREGATED_TERM"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "HYPERNYM",
+                          "name": "HYPER",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:01715023n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:16136963n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": true
+                      },
+                      {
+                          "type": "HYPERNYM",
+                          "name": "HYPER",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:01715023n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00751397n",
+                                      "bn:04813650n"
+                                  ],
+                                  "type": "AGGREGATED_TERM"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "ORIGINAL_LANGUAGE_OF_WORK",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:01715023n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:03155574n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "DESCRIBES_THE_FICTIONAL_UNIVERSE",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:01715023n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:01529290n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      }
+                  ]
+              },
+              "terms": [
+                  {
+                      "id": "bn:05703843n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:05703843n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Lily_Evans",
+                              "description": "Fictional character of the Harry Potter series",
+                              "synonyms": [
+                                  "Lily_Potter"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Blason_Gryffondor.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:14790026n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:14790026n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Minerva_McGonagall",
+                              "description": "Fictional character in the Harry Potter universe",
+                              "synonyms": [],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Blason_Gryffondor.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:03196962n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:03196962n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Severus_Snape",
+                              "description": "Severus Snape is a fictional character in J. K. Rowling's Harry Potter series.",
+                              "synonyms": [
+                                  "Snape",
+                                  "Snape",
+                                  "Half-Blood_Prince",
+                                  "Severus_Prince",
+                                  "Severes_Snape",
+                                  "The_Half-Blood_Prince",
+                                  "Half-Blood_Prince_(character)",
+                                  "Eileen_Prince",
+                                  "Serverus_snape",
+                                  "Snivellus",
+                                  "Severus_snape",
+                                  "Tobias_Snape_and_Eileen_Prince",
+                                  "Tobias_Snape",
+                                  "Professor_Snape"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Blason_Serpentard.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:13953494n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:13953494n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "James_Potter",
+                              "description": "Character in the Harry Potter franchise",
+                              "synonyms": [],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Blason_Gryffondor.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:03209333n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:03209333n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Hermione_Granger",
+                              "description": "Hermione Jean Granger is a fictional character in J. K. Rowling's Harry Potter series.",
+                              "synonyms": [
+                                  "Hermione_Jean_Granger",
+                                  "Hermione",
+                                  "Hermione",
+                                  "HJG",
+                                  "Jane_Granger",
+                                  "Hermy_Granger",
+                                  "Hermione_Jean_Granger",
+                                  "Hermione_Jean_Granger_Weasley",
+                                  "Hermione_granger",
+                                  "Hermione_Puckle",
+                                  "Society_for_the_Promotion_of_Elfish_Welfare",
+                                  "Hermionie_Granger",
+                                  "Hermione_Jane_Granger",
+                                  "Hermione_(Harry_Potter)",
+                                  "Hermy",
+                                  "Granger,_Hermione",
+                                  "Hermione_Jane_Granger_-_Harry_Potter",
+                                  "Hermoine_Granger",
+                                  "Hermione_Weasley",
+                                  "S.P.E.W."
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/P_culture.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:01187658n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:01187658n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Ron_Weasley",
+                              "description": "Ronald Bilius \"Ron\" Weasley is a fictional character in J. K. Rowling's Harry Potter series.",
+                              "synonyms": [
+                                  "Fleur_Isabelle_Delacour",
+                                  "Albus-Severus",
+                                  "Molly_Weasly",
+                                  "Ronald_\"Ron\"_Bilius_Weasley",
+                                  "Ron_Weasly",
+                                  "Molly_Prewett_Weasley",
+                                  "The_Weasley_Family",
+                                  "Weasly",
+                                  "Lancelot_Weasley",
+                                  "Ottery_St_Catchpole",
+                                  "Weasley_family",
+                                  "Ron_wealsey",
+                                  "Gideon_and_Fabian_Prewett",
+                                  "Weasley_Family",
+                                  "Won-Won",
+                                  "Ron_(Harry_Potter)",
+                                  "Ronald_Bilius_Ron_Weasley",
+                                  "Ronald_Billius_\"Ron\"_Weasley",
+                                  "Fred_and_George",
+                                  "Ron_weasley",
+                                  "Ottery_St._Catchpole",
+                                  "Weasley",
+                                  "Roonil_Wazlib",
+                                  "Mollywobbles",
+                                  "Ronald_Bilius_\"Ron\"_Weasley",
+                                  "Percy_Weasly",
+                                  "Ronald_Bilius_Weasley",
+                                  "Charley_Weasley",
+                                  "Hugo_Weasly",
+                                  "The_Weasley_family",
+                                  "Roonil_wazlib",
+                                  "Ronald_Weasly",
+                                  "Weezley",
+                                  "Weasleys",
+                                  "OBHWF",
+                                  "Ronald_Weasley",
+                                  "Mrs._Molly_Weasley",
+                                  "Billius_weasley",
+                                  "Albus-Severus_Potter",
+                                  "Ronald_Bilius_Weasley",
+                                  "Ronald_Weasley",
+                                  "Ronald_Bilius_\"Ron\"_Weasley",
+                                  "The_Prewett_Family",
+                                  "Rose_Weasly",
+                                  "Ronald_Bilius_\"Ron\"_Weasley"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/P_culture.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:03209476n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:03209476n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Lord_Voldemort",
+                              "description": "Lord Voldemort is a fictional character and the main antagonist in J. K. Rowling's series of Harry Potter novels.",
+                              "synonyms": [
+                                  "You_Know_Who",
+                                  "He_Who_Must_Not_Be_Named",
+                                  "He-Who-Must-Not-Be-Named",
+                                  "He_who_shall_not_be_named",
+                                  "Tom_Riddle_Sr.",
+                                  "Voldy",
+                                  "Marvolo_Gaunt",
+                                  "Riddle_house",
+                                  "Dark_Lord_Voldemort",
+                                  "He-Who-Can-Not-Be-Named",
+                                  "Merope_Gaunt",
+                                  "Voldemortesque",
+                                  "Tom_riddle",
+                                  "Voldie",
+                                  "The_House_of_Gaunt",
+                                  "Valdemort",
+                                  "He-Who-Must-Not-Be-Named",
+                                  "Tom_Marvolo_Riddle",
+                                  "Voldemort",
+                                  "House_of_Gaunt",
+                                  "I_am_lord_voldemort",
+                                  "I_am_Lord_Voldemort",
+                                  "Voldemor",
+                                  "Gaunt_family",
+                                  "Merope_Riddle",
+                                  "The_Riddles_(Harry_Potter)",
+                                  "You-Know-Who",
+                                  "You_Know_Who",
+                                  "Marvolo",
+                                  "Thomas_Riddle",
+                                  "He_Who_Cannot_Be_Named",
+                                  "Dark_Lord_Voldemort",
+                                  "You-Know-Who",
+                                  "Voldemort",
+                                  "Tom_Marvolo_Riddle",
+                                  "Dark_Lord",
+                                  "Lord_voldemort",
+                                  "Morfin_Gaunt",
+                                  "Voldermort",
+                                  "Appearance_of_Voldemort",
+                                  "Lord_Voldermort",
+                                  "HeWhoCannotBeNamed",
+                                  "Tom_Riddle_Sr",
+                                  "Riddle_family",
+                                  "Tom_Riddle",
+                                  "He_Who_Must_Not_Be_Named",
+                                  "Tom_Riddle"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Blason_Serpentard.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:03594744n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:03594744n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Harry_Potter_(character)",
+                              "description": "Harry James Potter is the title character and protagonist of J. K. Rowling's Harry Potter series.",
+                              "synonyms": [
+                                  "Harry_Potter",
+                                  "Scarhead",
+                                  "Harry_Potter's_family",
+                                  "The_Boy_Who_Lived",
+                                  "Harry_Potter_character",
+                                  "Harry_Potter's",
+                                  "Potter,_Harry",
+                                  "Lily_and_james_potter",
+                                  "Potter_family",
+                                  "The_Master_of_Death",
+                                  "Harry_Potter_(Character)",
+                                  "Harry_Potter_family",
+                                  "Harry_James_Potter",
+                                  "Potter_Family",
+                                  "Harry_James_Potter_(character)",
+                                  "Family_of_Harry_Potter",
+                                  "Lily_and_James_Potter",
+                                  "The_boy_who_lived",
+                                  "Mr_and_Mrs_Potter",
+                                  "Mr_and_Mrs_Evans",
+                                  "Relatives_of_Harry_Potter",
+                                  "HarryPotter",
+                                  "Harry_Potter's_Relatives",
+                                  "The_Boy_Who_Lived",
+                                  "Harry_James_Potter",
+                                  "James_and_Lily_Potter",
+                                  "Saint_Potter",
+                                  "Harry_potter_character",
+                                  "Harry_Potter_family_tree",
+                                  "Harry_Potter"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Blason_Gryffondor.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:03213301n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:03213301n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Albus_Dumbledore",
+                              "description": "Professor Albus Percival Wulfric Brian Dumbledore is a fictional character in J. K. Rowling's Harry Potter series.",
+                              "synonyms": [
+                                  "Dumbldore",
+                                  "Dumbledore",
+                                  "Albus_Dombledore",
+                                  "Dumbeldore",
+                                  "The_dumbledores",
+                                  "Professor_Albus_Dumbledore",
+                                  "Dumbledoor",
+                                  "Professor_Dumbledore",
+                                  "Percival_Dumbledore",
+                                  "Ariana_Dumbledore",
+                                  "The_Dumbledore_Family",
+                                  "Dumbledore_family",
+                                  "Albus_Percivial_Wulfric_Brian_Dumbledore",
+                                  "Albus_Percival_Wulfric_Brian_Dumbledore",
+                                  "Kendra_Dumbledore",
+                                  "Dumbledore",
+                                  "Dumbledore",
+                                  "Albus_Percival_Wulfric_Brian_Dumbledore"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Blason_Gryffondor.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:04092519n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:04092519n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "development_novel",
+                              "description": "Literary genre",
+                              "synonyms": [
+                                  "developmental_novel"
+                              ]
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:14287099n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:14287099n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "L.E.J",
+                              "description": "L.E.J, short for Lucie, \u00c9lisa and Juliette, sometimes Elijay, is a French band composed of three young women from Saint Denis, a city in Paris' suburbs.",
+                              "synonyms": [
+                                  "L.E.J.",
+                                  "youth_and_children's_literature",
+                                  "youth_and_children's_books",
+                                  "Elijay",
+                                  "Game_of_Bells"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Elijay.JPG"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:06315186n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:06315186n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "fantasy_novel",
+                              "description": "Literary genre",
+                              "synonyms": [
+                                  "speculative_fiction_novel"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Books-aj.svg_aj_ashton_01g.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:06447430n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:06447430n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "juvenile_novel",
+                              "synonyms": [
+                                  "young_adult_novel"
+                              ]
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00840856n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00840856n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "J._K._Rowling",
+                              "description": "Joanne Rowling,, writing under the pen names J. K. Rowling and Robert Galbraith, is a British novelist, screenwriter, and producer who is best known for writing the Harry Potter fantasy series.",
+                              "synonyms": [
+                                  "Very_Good_Lives",
+                                  "Joanne_\"Jo\"_Rowling",
+                                  "Mackenzie_Rowling",
+                                  "J_K_Rowling",
+                                  "Jo_Murray",
+                                  "Jorge_Arantes",
+                                  "Joanne_K_Rowling",
+                                  "J.K._Rowling",
+                                  "Neil_Murray_(doctor)",
+                                  "Rowling,_J.K.",
+                                  "Joanne_Kathleen_Rowling",
+                                  "J.K.Rowling",
+                                  "Jkrowling.com",
+                                  "Joanne_Rowling",
+                                  "Joanne_Kathleen_Murray",
+                                  "J_K_Rowling",
+                                  "J._K._Rowlings",
+                                  "Harry_Potter_encyclopedia",
+                                  "The_Elephant_House_(Edinburgh_Caf\u00e9)",
+                                  "JK_Rawling",
+                                  "Robert_Galbraith",
+                                  "Rowling,_J._K.",
+                                  "Mackenzie_Jean_Rowling_Murray",
+                                  "JK_Rowling",
+                                  "Mackenzie_Murray",
+                                  "J.k._rowling",
+                                  "Joanne_Kathalene_Rowling",
+                                  "J.K._Rowling",
+                                  "Jessica_Rowling_Arantes",
+                                  "Joanne_\u201cJo\u201d_Rowling",
+                                  "J.K.Rowlings",
+                                  "Volant_Charitable_Trust",
+                                  "Jk_rowling",
+                                  "J._K_Rowling",
+                                  "J.K_Rowling",
+                                  "Robert_Galbraith_(author)",
+                                  "Robert_Galbraith_(pseudonym)",
+                                  "Jkrowling",
+                                  "Robert_Galbraith_(pen_name)",
+                                  "Jo_Rowling",
+                                  "Joanne_\"Jo\"_Rowling",
+                                  "Joanne_Murray",
+                                  "JKRowling",
+                                  "Joanne_K._Rowling",
+                                  "Harry_Potter_encyclopaedia",
+                                  "J_K._Rowling",
+                                  "J.k.rolwing",
+                                  "List_of_books_by_J.K._Rowling",
+                                  "Rowling,_J._K.",
+                                  "Joanne_Kathleen_Rowling",
+                                  "J_k_rowling_books",
+                                  "Joanne_K._Rowling",
+                                  "Rowling",
+                                  "JK_Rowling",
+                                  "Rowling",
+                                  "J._K_Rowling",
+                                  "Rowling",
+                                  "JK_Rowling",
+                                  "Rowling,_J.K.",
+                                  "Joanne_Rowling",
+                                  "Hermione_granger"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/P_culture.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:16485824n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:16485824n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Salamandra",
+                              "description": "Publisher",
+                              "synonyms": []
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:03585514n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:03585514n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Bloomsbury_Publishing",
+                              "description": "Bloomsbury Publishing plc is a British independent, worldwide publishing house of fiction and non-fiction.",
+                              "synonyms": [
+                                  "Hart_Publishing",
+                                  "AVA_Publishing",
+                                  "Bloomsbury_India",
+                                  "Bloomsbury_Publishing_PTY_Ltd.",
+                                  "Bloomsbury_Press",
+                                  "Walker_Publishing_Company",
+                                  "Walker_&_Company",
+                                  "Bloomsbury_Children's_Books",
+                                  "Bristol_Classical_Press",
+                                  "Bloomsbury_USA",
+                                  "Tottel_Publishing",
+                                  "Andrew_Brodie",
+                                  "Hart_Publishing_Company",
+                                  "Featherstone_Education",
+                                  "Walker_and_Company",
+                                  "Bloomsbury_Academic",
+                                  "Bloomsbury_Publishing_Plc.",
+                                  "Absolute_Press",
+                                  "Bloomsbury_UK",
+                                  "Bloomsbury_publishers",
+                                  "Bloomsbury_Publishing_Inc.",
+                                  "Bloomsbury.com",
+                                  "Bloomsbury_Professional",
+                                  "Walker_&_Co.",
+                                  "Bloomsbury_Books",
+                                  "Bloomsbury_Reader",
+                                  "Bloomsbury_Publishing_Plc",
+                                  "Bloomsbury_Publishing_PLC",
+                                  "Bloomsbury_Publishing_India_Pvt_Limited",
+                                  "Walker_Books_for_Young_Readers",
+                                  "Bloomsbury_Publishing_plc",
+                                  "Bloomsbury_Publishing_USA",
+                                  "Fairchild_Books"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bloomsbury-publishing-logo.PNG"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:02265902n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:02265902n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Scholastic_Corporation",
+                              "description": "Scholastic Corporation is an American multinational publishing, education and media company known for publishing, selling, and distributing books and educational materials for schools, teachers, parents, and children.",
+                              "synonyms": [
+                                  "Scholastic",
+                                  "Scholastic_Library_Publishing",
+                                  "Study_Jams",
+                                  "Scholastic_Press",
+                                  "Cartwheel_Books",
+                                  "Scholastic_Productions",
+                                  "Scholastic_book",
+                                  "Graphix",
+                                  "Scholastic_news_kid_press_corp",
+                                  "Scholastic_Canada",
+                                  "The_Blue_Sky_Press",
+                                  "Scholastic_Point",
+                                  "Scholastic_Inc.",
+                                  "Scholastic_Parents_Media",
+                                  "Four_Winds_Press",
+                                  "Margaret_Hamilton_Books",
+                                  "Scholastic_Books",
+                                  "GRAPHIX",
+                                  "Blue_Sky_Press",
+                                  "Scholastic_INC.",
+                                  "Scholastic_(publishing)",
+                                  "Scholastic_Book_Services",
+                                  "Scholastic.com",
+                                  "Scholastic_Corp.",
+                                  "Scholastic_Incorporated.",
+                                  "Scholastic_Inc",
+                                  "Scholastic_Incorporated",
+                                  "Scholastic_Publishing",
+                                  "Scholastic,_Inc.",
+                                  "Scholastic_Paperbacks",
+                                  "Scholastic_Media",
+                                  "Scholastic_(publisher)",
+                                  "Scholastic_Entertainment",
+                                  "Omnibus_Books",
+                                  "Scholastic_Studios",
+                                  "Arthur_A._Levine_Books",
+                                  "Scholastic/Arthur_A._Levine",
+                                  "Little_Apple_Books",
+                                  "Candy_Apple_Books",
+                                  "Childrens_Press",
+                                  "Children's_Press"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Location_North_America.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00751397n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00751397n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "heptalogy",
+                              "description": "A heptalogy is a compound literary or narrative work that is made up of seven distinct works.",
+                              "synonyms": [
+                                  "List_of_heptalogies",
+                                  "Heptalogies",
+                                  "Series_of_seven",
+                                  "Heptalogie"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Hand_written_7.png"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:04813650n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:04813650n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "novel_series",
+                              "description": "Set of novels that should be read in order",
+                              "synonyms": []
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:03155574n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:03155574n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "British_English",
+                              "description": "British English is the English language as spoken and written in the United Kingdom.",
+                              "synonyms": [
+                                  "English_(United_Kingdom)",
+                                  "English_(United_Kingdom)",
+                                  "United_Kingdom_English",
+                                  "BrE",
+                                  "There_is_no_such_thing_as_\"British_English\"",
+                                  "English_as_spoken_in_The_British_Isles",
+                                  "British-English",
+                                  "British_english",
+                                  "British_English_language",
+                                  "En-gb",
+                                  "Bringlish",
+                                  "En-GB",
+                                  "English_language_in_Great_Britain",
+                                  "English_language_in_Britain",
+                                  "English_language_of_the_United_Kingdom",
+                                  "British_accent",
+                                  "en-gb",
+                                  "British_dialect_of_the_English_language",
+                                  "English_of_Great_Britain",
+                                  "English_of_the_United_Kingdom",
+                                  "British_dialect_of_English",
+                                  "British_language",
+                                  "English_in_Great_Britain",
+                                  "English_in_Britain",
+                                  "English_in_the_United_Kingdom",
+                                  "English_of_Britain",
+                                  "English_(traditional)",
+                                  "English_language_(United_Kingdom)",
+                                  "English_language_of_Great_Britain",
+                                  "UK_English",
+                                  "British_accents",
+                                  "BritEng",
+                                  "British_pronunciation",
+                                  "English_language_in_the_United_Kingdom",
+                                  "En-UK",
+                                  "Ukonian_English",
+                                  "U.K._English",
+                                  "English_language_of_Britain",
+                                  "English(UK)",
+                                  "English_(UK)",
+                                  "Standard_British_English",
+                                  "Brit_english",
+                                  "Britian_Slang",
+                                  "British_variant",
+                                  "BrE"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Anglospeak%28800px%29Countries.png"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:01529290n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:01529290n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Fictional_universe_of_Harry_Potter",
+                              "description": "The fictional universe of British author J. K. Rowling's Harry Potter series of fantasy novels comprises two distinct societies: the Wizarding World and the Muggle world.",
+                              "synonyms": [
+                                  "The_Daily_Prophet",
+                                  "Mudblood",
+                                  "Muggle-born",
+                                  "Black_family_(Harry_Potter)",
+                                  "Butterbeer",
+                                  "Pureblood_families",
+                                  "Pure-bloods",
+                                  "Butter_beer",
+                                  "Neville's_Grandmother",
+                                  "Black_Family",
+                                  "Harry_Potter_universe",
+                                  "Wizarding_World",
+                                  "Harry_Potter_Universe",
+                                  "Black_family_tree_(Harry_Potter)",
+                                  "International_Confederation_of_Wizards",
+                                  "He_Flew_Like_a_Madman",
+                                  "Nimbus_two_thousand_and_one",
+                                  "Chocolate_Frog_(Harry_Potter)",
+                                  "Crouch_family",
+                                  "Money_in_harry_potter",
+                                  "Galleon_(currency)",
+                                  "Mudbloods",
+                                  "Pure-blood_(Harry_Potter)",
+                                  "Libatius_Borage",
+                                  "Avada_kedavra",
+                                  "Pure-blooded",
+                                  "Galleon_(coin)",
+                                  "Lucretia_Black",
+                                  "HP_universe",
+                                  "Potterverse",
+                                  "Daily_Prophet",
+                                  "Currency_(Harry_Potter)",
+                                  "Cedrella_black",
+                                  "Famous_Witches_and_Wizards_cards",
+                                  "Wigtown_Wanderers",
+                                  "Witch_Weekly",
+                                  "The_Quibbler",
+                                  "Black_family_tree",
+                                  "Uagadou",
+                                  "Chocolate_frog_card",
+                                  "Potterverse",
+                                  "Harry_Potter_newspapers_and_magazines",
+                                  "Black_Family_Tree",
+                                  "Harry_Potter_universe",
+                                  "Sirius's_Mother",
+                                  "Squib_(Harry_Potter)",
+                                  "Wizarding_Examinations_Authority",
+                                  "Half-blood_(Harry_Potter)",
+                                  "Orion_Black",
+                                  "Pure-Blood",
+                                  "Chocolate_frog_cards",
+                                  "Aunt_Elladora",
+                                  "Muggle_born",
+                                  "Gillywater",
+                                  "Chocolate_Frog_cards",
+                                  "Black_Family_Tree_(Harry_Potter)",
+                                  "Walburga_Black",
+                                  "Currency_in_Harry_Potter",
+                                  "Blood_traitor",
+                                  "Toujours_pur",
+                                  "Black_family",
+                                  "Money_in_Harry_Potter",
+                                  "Harry_Potter_world",
+                                  "Gran_Longbottom",
+                                  "Lucretia_black",
+                                  "Hary_Potter_(franchise)",
+                                  "Hary_Potter_(series)",
+                                  "Blood_purity_(Harry_Potter)",
+                                  "Orion_Black_(Harry_Potter)",
+                                  "Magical_Schools_(Harry_Potter)"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/P_culture.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:16136963n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:16136963n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "book",
+                              "description": "A literary genre is a category of literary composition.",
+                              "synonyms": [
+                                  "literary_genre",
+                                  "Literature_Genres",
+                                  "Genres_of_Literacy",
+                                  "Genres_of_Literary",
+                                  "Genre_of_Books",
+                                  "book_genre",
+                                  "Literacy_Genres",
+                                  "Genre_(literature)",
+                                  "Literary_forms",
+                                  "Genres_of_Novels",
+                                  "Literacy_Genre",
+                                  "Literature_Genre",
+                                  "Book_Genres",
+                                  "Genres_of_Books",
+                                  "Literary_genres",
+                                  "Genres_of_Literature",
+                                  "Literary_form",
+                                  "Literary_genre"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Britannica_Shakespeare_Roubiliac.jpg"
+                          }
+                      }
+                  }
+              ]
+          }
+      }
+  ],
+  "characterization": {
+      "predicates": [
+          {
+              "type": "OTHER",
+              "name": "CHARACTERS",
+              "terms": [
+                  {
+                      "name": [
+                          "bn:02342584n",
+                          "bn:01715023n"
+                      ],
+                      "type": "FREE_VARIABLE"
+                  },
+                  {
+                      "name": [
+                          "bn:01487066n",
+                          "bn:03453024n",
+                          "bn:01467354n",
+                          "bn:01487045n",
+                          "bn:03326980n",
+                          "bn:01330259n",
+                          "bn:03463593n",
+                          "bn:01625250n",
+                          "bn:01625246n",
+                          "bn:01625290n",
+                          "bn:03421989n",
+                          "bn:01625220n",
+                          "bn:01111055n",
+                          "bn:01625189n",
+                          "bn:05703843n",
+                          "bn:14790026n",
+                          "bn:03196962n",
+                          "bn:13953494n",
+                          "bn:03209333n",
+                          "bn:01187658n",
+                          "bn:03209476n",
+                          "bn:03594744n",
+                          "bn:03213301n"
+                      ],
+                      "type": "BOUND_VARIABLE"
+                  }
+              ],
+              "is_deriv": false
+          },
+          {
+              "type": "OTHER",
+              "name": "GENRE",
+              "terms": [
+                  {
+                      "name": [
+                          "bn:02342584n",
+                          "bn:01715023n"
+                      ],
+                      "type": "FREE_VARIABLE"
+                  },
+                  {
+                      "name": [
+                          "bn:06315186n"
+                      ],
+                      "type": "CONSTANT"
+                  }
+              ],
+              "is_deriv": false
+          },
+          {
+              "type": "OTHER",
+              "name": "AUTHOR",
+              "terms": [
+                  {
+                      "name": [
+                          "bn:02342584n",
+                          "bn:01715023n"
+                      ],
+                      "type": "FREE_VARIABLE"
+                  },
+                  {
+                      "name": [
+                          "bn:00047783n",
+                          "bn:00840856n"
+                      ],
+                      "type": "BOUND_VARIABLE"
+                  }
+              ],
+              "is_deriv": false
+          },
+          {
+              "type": "OTHER",
+              "name": "PUBLISHER",
+              "terms": [
+                  {
+                      "name": [
+                          "bn:02342584n",
+                          "bn:01715023n"
+                      ],
+                      "type": "FREE_VARIABLE"
+                  },
+                  {
+                      "name": [
+                          "bn:02638386n",
+                          "bn:16485824n",
+                          "bn:03585514n",
+                          "bn:02265902n"
+                      ],
+                      "type": "BOUND_VARIABLE"
+                  }
+              ],
+              "is_deriv": false
+          },
+          {
+              "type": "OTHER",
+              "name": "ORIGINAL_LANGUAGE_OF_WORK",
+              "terms": [
+                  {
+                      "name": [
+                          "bn:02342584n",
+                          "bn:01715023n"
+                      ],
+                      "type": "FREE_VARIABLE"
+                  },
+                  {
+                      "name": [
+                          "bn:00030862n",
+                          "bn:03155574n"
+                      ],
+                      "type": "BOUND_VARIABLE"
+                  }
+              ],
+              "is_deriv": false
+          },
+          {
+              "type": "OTHER",
+              "name": "DESCRIBES_THE_FICTIONAL_UNIVERSE",
+              "terms": [
+                  {
+                      "name": [
+                          "bn:02342584n",
+                          "bn:01715023n"
+                      ],
+                      "type": "FREE_VARIABLE"
+                  },
+                  {
+                      "name": [
+                          "bn:03608130n",
+                          "bn:01529290n"
+                      ],
+                      "type": "BOUND_VARIABLE"
+                  }
+              ],
+              "is_deriv": false
+          },
+          {
+              "type": "HYPERNYM",
+              "name": "HYPER",
+              "terms": [
+                  {
+                      "name": [
+                          "bn:02342584n",
+                          "bn:01715023n"
+                      ],
+                      "type": "FREE_VARIABLE"
+                  },
+                  {
+                      "name": [
+                          "bn:16136963n"
+                      ],
+                      "type": "CONSTANT"
+                  }
+              ],
+              "is_deriv": true
+          }
+      ]
+  }
+}

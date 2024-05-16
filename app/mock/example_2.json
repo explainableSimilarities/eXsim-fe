@@ -1,0 +1,908 @@
+{
+  "entities": [
+      {
+          "entity": [
+              {
+                  "name": [
+                      "bn:01417697n"
+                  ],
+                  "type": "CONSTANT",
+                  "babelNetEntity": {
+                      "main_sense": "Discovery_Cove",
+                      "description": "Discovery Cove is an amusement park owned and operated by SeaWorld Parks & Entertainment, located in Orlando, Florida.",
+                      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/DisccoveRiver.jpg"
+                  }
+              }
+          ],
+          "summary": {
+              "atoms": {
+                  "predicates": [
+                      {
+                          "type": "OTHER",
+                          "name": "COUNTRY",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:01417697n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00003341n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "LOCATED_IN_THE_ADMINISTRATIVE_TERRITORIAL_ENTITY",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:01417697n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00032026n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "HYPERNYM",
+                          "name": "HYPER",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:01417697n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00076812n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": true
+                      }
+                  ]
+              },
+              "terms": [
+                  {
+                      "id": "bn:00003341n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00003341n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "United_States",
+                              "description": "North American republic containing 50 states - 48 conterminous states in North America plus Alaska in northwest North America and the Hawaiian Islands in the Pacific Ocean; achieved independence in 1776",
+                              "synonyms": [
+                                  "USA",
+                                  "Amercia",
+                                  "U.S.A.",
+                                  "'murica",
+                                  "Americia",
+                                  "U.S._of_A.",
+                                  "the_States",
+                                  "The_U._States_of_America",
+                                  "U.s.",
+                                  "Amurica",
+                                  "U._S._of_A.",
+                                  "USA",
+                                  "the_US",
+                                  "American_occupation_of_the_United_States",
+                                  "Nagkaisang_mga_Estado",
+                                  "America",
+                                  "United_States_of_America",
+                                  "America_(United_States_of)",
+                                  "United_Sates",
+                                  "The_U.S.",
+                                  "Americaland",
+                                  "United\u2013States",
+                                  "The_U_S_of_America",
+                                  "United_states_of_America",
+                                  "U-S",
+                                  "U.S._of_America",
+                                  "EEUU",
+                                  "U.S._of_A",
+                                  "Unietd_States",
+                                  "US",
+                                  "United_State_of_America",
+                                  "U.S._OF_A",
+                                  "American_United_States",
+                                  "United_States_(U.S.)",
+                                  "United_states",
+                                  "U\u2013S\u2013A",
+                                  "The_U_S_of_A",
+                                  "Los_Estados_Unidos",
+                                  "Unite_states_of_america",
+                                  "VS_Amerika",
+                                  "ISO_3166-1:US",
+                                  "US_(country)",
+                                  "UNITED_STATES",
+                                  "U.S.",
+                                  "The_U.S.A.",
+                                  "U.\u2013S.\u2013A.",
+                                  "Unites_States",
+                                  "U,S,",
+                                  "United_States_of_America_(USA)",
+                                  "U.S.American",
+                                  "United_States_of_America/OldPage",
+                                  "U.S.A.",
+                                  "Amerka",
+                                  "U.S",
+                                  "(USA)",
+                                  "United_States_(country)",
+                                  "America_(US)",
+                                  "Amiercan",
+                                  "Usa",
+                                  "The_USA",
+                                  "Unite_States",
+                                  "Amercia",
+                                  "U.S.",
+                                  "\ud83c\uddfa\ud83c\uddf8",
+                                  "'merica",
+                                  "US",
+                                  "America",
+                                  "Amarica",
+                                  "The_United_States_of_America",
+                                  "American",
+                                  "USA",
+                                  "U.S.",
+                                  "US",
+                                  "Americans",
+                                  "The_United_States",
+                                  "United_States_of_America",
+                                  "U.S.A.",
+                                  "United_States_of_American",
+                                  "Yankee_land",
+                                  "United_States_of_America",
+                                  "States",
+                                  "Americophile",
+                                  "America",
+                                  "United_Stated",
+                                  "The_U.\u2013S.",
+                                  "The_US_of_A",
+                                  "U._S._of_America",
+                                  "The_United_States_of_America",
+                                  "The_U_S_A",
+                                  "Unitesd_states",
+                                  "United_States_(of_America)",
+                                  "Untied_States",
+                                  "EE_UU",
+                                  "United_States_of_America/Introduction",
+                                  "United-States",
+                                  "UNited_States",
+                                  "United_States_of_America_(redirect)",
+                                  "U.s.a.",
+                                  "The_Usa",
+                                  "U\u2013S",
+                                  "\u00c9tats-Unis_d'Am\u00e9rique",
+                                  "United_States_Of_America",
+                                  "America,_United_States_of",
+                                  "America_(country)",
+                                  "U.S._America",
+                                  "The_United_States_of_America.",
+                                  "The_U._S._of_America",
+                                  "US_of_America",
+                                  "Estados_unidos",
+                                  "Etats-Unis_d'Amerique",
+                                  "U.\u2013S.",
+                                  "Unitd_states",
+                                  "EE._UU.",
+                                  "United_sates",
+                                  "\u00c9tats-Unis",
+                                  "USoA",
+                                  "U.S.A",
+                                  "United_States_Of_Amerca",
+                                  "Name_of_the_United_States",
+                                  "United+States+of+America",
+                                  "United_States_of_America_(U.S.A.)",
+                                  "Americophile",
+                                  "Estados_Unidos",
+                                  "Estaos_Unios",
+                                  "United_Staets_of_America",
+                                  "U_S_of_A",
+                                  "The_U-S",
+                                  "Us_of_a",
+                                  "U_S",
+                                  "Stati_Uniti_d'America",
+                                  "U-S-A",
+                                  "U._S._of_A",
+                                  "The_Unites_States_of_America",
+                                  "The_U-S-A",
+                                  "VS_America",
+                                  "US_and_A",
+                                  "The_US_of_america",
+                                  "The_United\u2013States",
+                                  "U.S.A.)",
+                                  "Los_Estados_Unidos_de_Am\u00e9rica",
+                                  "States_of_America",
+                                  "United_state_of_america",
+                                  "UNITED_STATES_OF_AMERICA",
+                                  "Vereinigte_Staaten",
+                                  "Estados_Unidos_de_Am\u00e9rica",
+                                  "The_U.-S.",
+                                  "U._S._A.",
+                                  "V.S._America",
+                                  "The_United_States_Of_America",
+                                  "The_united_states_of_america",
+                                  "US_of_A",
+                                  "United_States_(US)",
+                                  "U.-S.",
+                                  "Etymology_of_the_United_States",
+                                  "U.-S.-A.",
+                                  "EE.UU.",
+                                  "THE_AMERICAN_UNITED_STATES",
+                                  "U_S_of_America",
+                                  "The_U\u2013S",
+                                  "Amurika",
+                                  "The_U.-S.-A.",
+                                  "Estatos_Unitos",
+                                  "The_U._S.",
+                                  "Estados_Unidos_de_America",
+                                  "The_U._S._A.",
+                                  "Los_Estados_Unidos_de_America",
+                                  "The_U.S._of_A",
+                                  "(US)",
+                                  "The_U._S._of_A",
+                                  "United_States_(U.S.A.)",
+                                  "USA",
+                                  "America_(United_States)",
+                                  "V.S._Amerika",
+                                  "U.S._A",
+                                  "US_of_america",
+                                  "Untied_States_of_America",
+                                  "These_United_States_of_America",
+                                  "United_States_of_America",
+                                  "USofA",
+                                  "United+States",
+                                  "United_states_of_america",
+                                  "The_Us",
+                                  "The_US_of_America",
+                                  "U._S.",
+                                  "The_U.S._of_America",
+                                  "UnitedStates",
+                                  "America_(USA)",
+                                  "The_United_States",
+                                  "The_U_S",
+                                  "Estaos_Un\u00edos",
+                                  "THE_UNITED_STATES_OF_AMERICA",
+                                  "The_U\u2013S\u2013A",
+                                  "Nited_States",
+                                  "U_S_A",
+                                  "Federal_United_States",
+                                  "US_America",
+                                  "United_States_America",
+                                  "The_United-States",
+                                  "The_U.\u2013S.\u2013A.",
+                                  "Etats-Unis",
+                                  "The_US",
+                                  "United_States_of_America.",
+                                  "U.S.A.",
+                                  "U.S.",
+                                  "USA",
+                                  "the_States",
+                                  "US",
+                                  "United_States_of_America",
+                                  "America",
+                                  "America",
+                                  "United_States_of_America",
+                                  "United_States_of_America",
+                                  "U.S.A.",
+                                  "States",
+                                  "USA",
+                                  "U.S.",
+                                  "America",
+                                  "U.S._of_A."
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/United_States_%28orthographic_projection%29.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00032026n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00032026n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Florida",
+                              "description": "A state in southeastern United States between the Atlantic and the Gulf of Mexico; one of the Confederate states during the American Civil War",
+                              "synonyms": [
+                                  "State_of_Florida",
+                                  "Sunshine_State",
+                                  "Sunshine_State",
+                                  "Flarida",
+                                  "Architecture_of_Florida",
+                                  "Floreda",
+                                  "Economy_of_Florida",
+                                  "Flordida",
+                                  "FL_(state)",
+                                  "Florida_(State)",
+                                  "Florida,_United_States",
+                                  "Flawda",
+                                  "State_of_Florida",
+                                  "Florida_map",
+                                  "Florida_(U.S._state)",
+                                  "Twenty-seventh_State",
+                                  "Tourism_in_Florida",
+                                  "Flowery_Easter",
+                                  "Flordia",
+                                  "Florida,_USA",
+                                  "Fla.",
+                                  "Peninsular_State",
+                                  "Florida's",
+                                  "Floridian_Peninsula",
+                                  "Religion_in_Florida",
+                                  "Florida_(state)",
+                                  "Twenty-Seventh_State",
+                                  "FL",
+                                  "Fla.",
+                                  "Sunshine_State",
+                                  "Florida,_United_States",
+                                  "Agriculture_in_Florida",
+                                  "Florida_Redbacks",
+                                  "US-FL",
+                                  "State_of_Florida",
+                                  "Florida_(US_state)",
+                                  "Fl\u00f3rida",
+                                  "Sunshine_State_(US)",
+                                  "27th_State",
+                                  "FL",
+                                  "FL",
+                                  "Everglade_State",
+                                  "Sunshine_State"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/GulfofMexico3D.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00076812n",
+                      "occurrences": 2,
+                      "full_repr": {
+                          "name": [
+                              "bn:00076812n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "theme_park",
+                              "description": "An amusement park that is organized around some theme (as the world of tomorrow)",
+                              "synonyms": [
+                                  "Theme_park"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Oaks_Amusement_Park_entrance_Portland_Oregon.jpg"
+                          }
+                      }
+                  }
+              ]
+          }
+      },
+      {
+          "entity": [
+              {
+                  "name": [
+                      "bn:03085743n"
+                  ],
+                  "type": "CONSTANT",
+                  "babelNetEntity": {
+                      "main_sense": "Epcot",
+                      "description": "Epcot is a theme park at the Walt Disney World Resort in Bay Lake, Florida.",
+                      "synonyms": [
+                          "EPCOT_Center",
+                          "The_Official_Album_of_Walt_Disney_World_EPCOT_Center",
+                          "Disney's_Experimental_Prototype_Community_of_Tomorrow",
+                          "Epcot_'94",
+                          "Epcot_Centre",
+                          "Disney_Epcot",
+                          "Epcot_Pavilion",
+                          "USA_Pavilion",
+                          "World_Showcase",
+                          "World_Showcase_Lagoon",
+                          "EPCOT",
+                          "World_Showcase_pavilion",
+                          "Epcot_'95",
+                          "America_(Disney)",
+                          "Experimental_Prototype_Community_of_Tomorrow",
+                          "Epcot_Center",
+                          "EPCOT_Center"
+                      ],
+                      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1_epcot_spaceship_earth_2010a.JPG"
+                  }
+              }
+          ],
+          "summary": {
+              "atoms": {
+                  "predicates": [
+                      {
+                          "type": "OTHER",
+                          "name": "COUNTRY",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:03085743n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00003341n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "OTHER",
+                          "name": "LOCATED_IN_THE_ADMINISTRATIVE_TERRITORIAL_ENTITY",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:03085743n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00032026n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      },
+                      {
+                          "type": "HYPERNYM",
+                          "name": "HYPER",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:03085743n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:00076812n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": true
+                      },
+                      {
+                          "type": "HYPERNYM",
+                          "name": "HYPER",
+                          "terms": [
+                              {
+                                  "name": [
+                                      "bn:03085743n"
+                                  ],
+                                  "type": "CONSTANT"
+                              },
+                              {
+                                  "name": [
+                                      "bn:08471100n"
+                                  ],
+                                  "type": "CONSTANT"
+                              }
+                          ],
+                          "is_deriv": false
+                      }
+                  ]
+              },
+              "terms": [
+                  {
+                      "id": "bn:00003341n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00003341n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "United_States",
+                              "description": "North American republic containing 50 states - 48 conterminous states in North America plus Alaska in northwest North America and the Hawaiian Islands in the Pacific Ocean; achieved independence in 1776",
+                              "synonyms": [
+                                  "USA",
+                                  "Amercia",
+                                  "U.S.A.",
+                                  "'murica",
+                                  "Americia",
+                                  "U.S._of_A.",
+                                  "the_States",
+                                  "The_U._States_of_America",
+                                  "U.s.",
+                                  "Amurica",
+                                  "U._S._of_A.",
+                                  "USA",
+                                  "the_US",
+                                  "American_occupation_of_the_United_States",
+                                  "Nagkaisang_mga_Estado",
+                                  "America",
+                                  "United_States_of_America",
+                                  "America_(United_States_of)",
+                                  "United_Sates",
+                                  "The_U.S.",
+                                  "Americaland",
+                                  "United\u2013States",
+                                  "The_U_S_of_America",
+                                  "United_states_of_America",
+                                  "U-S",
+                                  "U.S._of_America",
+                                  "EEUU",
+                                  "U.S._of_A",
+                                  "Unietd_States",
+                                  "US",
+                                  "United_State_of_America",
+                                  "U.S._OF_A",
+                                  "American_United_States",
+                                  "United_States_(U.S.)",
+                                  "United_states",
+                                  "U\u2013S\u2013A",
+                                  "The_U_S_of_A",
+                                  "Los_Estados_Unidos",
+                                  "Unite_states_of_america",
+                                  "VS_Amerika",
+                                  "ISO_3166-1:US",
+                                  "US_(country)",
+                                  "UNITED_STATES",
+                                  "U.S.",
+                                  "The_U.S.A.",
+                                  "U.\u2013S.\u2013A.",
+                                  "Unites_States",
+                                  "U,S,",
+                                  "United_States_of_America_(USA)",
+                                  "U.S.American",
+                                  "United_States_of_America/OldPage",
+                                  "U.S.A.",
+                                  "Amerka",
+                                  "U.S",
+                                  "(USA)",
+                                  "United_States_(country)",
+                                  "America_(US)",
+                                  "Amiercan",
+                                  "Usa",
+                                  "The_USA",
+                                  "Unite_States",
+                                  "Amercia",
+                                  "U.S.",
+                                  "\ud83c\uddfa\ud83c\uddf8",
+                                  "'merica",
+                                  "US",
+                                  "America",
+                                  "Amarica",
+                                  "The_United_States_of_America",
+                                  "American",
+                                  "USA",
+                                  "U.S.",
+                                  "US",
+                                  "Americans",
+                                  "The_United_States",
+                                  "United_States_of_America",
+                                  "U.S.A.",
+                                  "United_States_of_American",
+                                  "Yankee_land",
+                                  "United_States_of_America",
+                                  "States",
+                                  "Americophile",
+                                  "America",
+                                  "United_Stated",
+                                  "The_U.\u2013S.",
+                                  "The_US_of_A",
+                                  "U._S._of_America",
+                                  "The_United_States_of_America",
+                                  "The_U_S_A",
+                                  "Unitesd_states",
+                                  "United_States_(of_America)",
+                                  "Untied_States",
+                                  "EE_UU",
+                                  "United_States_of_America/Introduction",
+                                  "United-States",
+                                  "UNited_States",
+                                  "United_States_of_America_(redirect)",
+                                  "U.s.a.",
+                                  "The_Usa",
+                                  "U\u2013S",
+                                  "\u00c9tats-Unis_d'Am\u00e9rique",
+                                  "United_States_Of_America",
+                                  "America,_United_States_of",
+                                  "America_(country)",
+                                  "U.S._America",
+                                  "The_United_States_of_America.",
+                                  "The_U._S._of_America",
+                                  "US_of_America",
+                                  "Estados_unidos",
+                                  "Etats-Unis_d'Amerique",
+                                  "U.\u2013S.",
+                                  "Unitd_states",
+                                  "EE._UU.",
+                                  "United_sates",
+                                  "\u00c9tats-Unis",
+                                  "USoA",
+                                  "U.S.A",
+                                  "United_States_Of_Amerca",
+                                  "Name_of_the_United_States",
+                                  "United+States+of+America",
+                                  "United_States_of_America_(U.S.A.)",
+                                  "Americophile",
+                                  "Estados_Unidos",
+                                  "Estaos_Unios",
+                                  "United_Staets_of_America",
+                                  "U_S_of_A",
+                                  "The_U-S",
+                                  "Us_of_a",
+                                  "U_S",
+                                  "Stati_Uniti_d'America",
+                                  "U-S-A",
+                                  "U._S._of_A",
+                                  "The_Unites_States_of_America",
+                                  "The_U-S-A",
+                                  "VS_America",
+                                  "US_and_A",
+                                  "The_US_of_america",
+                                  "The_United\u2013States",
+                                  "U.S.A.)",
+                                  "Los_Estados_Unidos_de_Am\u00e9rica",
+                                  "States_of_America",
+                                  "United_state_of_america",
+                                  "UNITED_STATES_OF_AMERICA",
+                                  "Vereinigte_Staaten",
+                                  "Estados_Unidos_de_Am\u00e9rica",
+                                  "The_U.-S.",
+                                  "U._S._A.",
+                                  "V.S._America",
+                                  "The_United_States_Of_America",
+                                  "The_united_states_of_america",
+                                  "US_of_A",
+                                  "United_States_(US)",
+                                  "U.-S.",
+                                  "Etymology_of_the_United_States",
+                                  "U.-S.-A.",
+                                  "EE.UU.",
+                                  "THE_AMERICAN_UNITED_STATES",
+                                  "U_S_of_America",
+                                  "The_U\u2013S",
+                                  "Amurika",
+                                  "The_U.-S.-A.",
+                                  "Estatos_Unitos",
+                                  "The_U._S.",
+                                  "Estados_Unidos_de_America",
+                                  "The_U._S._A.",
+                                  "Los_Estados_Unidos_de_America",
+                                  "The_U.S._of_A",
+                                  "(US)",
+                                  "The_U._S._of_A",
+                                  "United_States_(U.S.A.)",
+                                  "USA",
+                                  "America_(United_States)",
+                                  "V.S._Amerika",
+                                  "U.S._A",
+                                  "US_of_america",
+                                  "Untied_States_of_America",
+                                  "These_United_States_of_America",
+                                  "United_States_of_America",
+                                  "USofA",
+                                  "United+States",
+                                  "United_states_of_america",
+                                  "The_Us",
+                                  "The_US_of_America",
+                                  "U._S.",
+                                  "The_U.S._of_America",
+                                  "UnitedStates",
+                                  "America_(USA)",
+                                  "The_United_States",
+                                  "The_U_S",
+                                  "Estaos_Un\u00edos",
+                                  "THE_UNITED_STATES_OF_AMERICA",
+                                  "The_U\u2013S\u2013A",
+                                  "Nited_States",
+                                  "U_S_A",
+                                  "Federal_United_States",
+                                  "US_America",
+                                  "United_States_America",
+                                  "The_United-States",
+                                  "The_U.\u2013S.\u2013A.",
+                                  "Etats-Unis",
+                                  "The_US",
+                                  "United_States_of_America.",
+                                  "U.S.A.",
+                                  "U.S.",
+                                  "USA",
+                                  "the_States",
+                                  "US",
+                                  "United_States_of_America",
+                                  "America",
+                                  "America",
+                                  "United_States_of_America",
+                                  "United_States_of_America",
+                                  "U.S.A.",
+                                  "States",
+                                  "USA",
+                                  "U.S.",
+                                  "America",
+                                  "U.S._of_A."
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/United_States_%28orthographic_projection%29.svg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00032026n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:00032026n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "Florida",
+                              "description": "A state in southeastern United States between the Atlantic and the Gulf of Mexico; one of the Confederate states during the American Civil War",
+                              "synonyms": [
+                                  "State_of_Florida",
+                                  "Sunshine_State",
+                                  "Sunshine_State",
+                                  "Flarida",
+                                  "Architecture_of_Florida",
+                                  "Floreda",
+                                  "Economy_of_Florida",
+                                  "Flordida",
+                                  "FL_(state)",
+                                  "Florida_(State)",
+                                  "Florida,_United_States",
+                                  "Flawda",
+                                  "State_of_Florida",
+                                  "Florida_map",
+                                  "Florida_(U.S._state)",
+                                  "Twenty-seventh_State",
+                                  "Tourism_in_Florida",
+                                  "Flowery_Easter",
+                                  "Flordia",
+                                  "Florida,_USA",
+                                  "Fla.",
+                                  "Peninsular_State",
+                                  "Florida's",
+                                  "Floridian_Peninsula",
+                                  "Religion_in_Florida",
+                                  "Florida_(state)",
+                                  "Twenty-Seventh_State",
+                                  "FL",
+                                  "Fla.",
+                                  "Sunshine_State",
+                                  "Florida,_United_States",
+                                  "Agriculture_in_Florida",
+                                  "Florida_Redbacks",
+                                  "US-FL",
+                                  "State_of_Florida",
+                                  "Florida_(US_state)",
+                                  "Fl\u00f3rida",
+                                  "Sunshine_State_(US)",
+                                  "27th_State",
+                                  "FL",
+                                  "FL",
+                                  "Everglade_State",
+                                  "Sunshine_State"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/GulfofMexico3D.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:08471100n",
+                      "occurrences": 1,
+                      "full_repr": {
+                          "name": [
+                              "bn:08471100n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "theme_park",
+                              "description": "Amusement park focused on a particular theme",
+                              "synonyms": [],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Europapark_Rust.JL.jpg"
+                          }
+                      }
+                  },
+                  {
+                      "id": "bn:00076812n",
+                      "occurrences": 2,
+                      "full_repr": {
+                          "name": [
+                              "bn:00076812n"
+                          ],
+                          "type": "CONSTANT",
+                          "babelNetEntity": {
+                              "main_sense": "theme_park",
+                              "description": "An amusement park that is organized around some theme (as the world of tomorrow)",
+                              "synonyms": [
+                                  "Theme_park"
+                              ],
+                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Oaks_Amusement_Park_entrance_Portland_Oregon.jpg"
+                          }
+                      }
+                  }
+              ]
+          }
+      }
+  ],
+  "characterization": {
+      "predicates": [
+          {
+              "type": "OTHER",
+              "name": "COUNTRY",
+              "terms": [
+                  {
+                      "name": [
+                          "bn:01417697n",
+                          "bn:03085743n"
+                      ],
+                      "type": "FREE_VARIABLE"
+                  },
+                  {
+                      "name": [
+                          "bn:00003341n"
+                      ],
+                      "type": "CONSTANT"
+                  }
+              ],
+              "is_deriv": false
+          },
+          {
+              "type": "OTHER",
+              "name": "LOCATED_IN_THE_ADMINISTRATIVE_TERRITORIAL_ENTITY",
+              "terms": [
+                  {
+                      "name": [
+                          "bn:01417697n",
+                          "bn:03085743n"
+                      ],
+                      "type": "FREE_VARIABLE"
+                  },
+                  {
+                      "name": [
+                          "bn:00032026n"
+                      ],
+                      "type": "CONSTANT"
+                  }
+              ],
+              "is_deriv": false
+          },
+          {
+              "type": "HYPERNYM",
+              "name": "HYPER",
+              "terms": [
+                  {
+                      "name": [
+                          "bn:01417697n",
+                          "bn:03085743n"
+                      ],
+                      "type": "FREE_VARIABLE"
+                  },
+                  {
+                      "name": [
+                          "bn:00076812n"
+                      ],
+                      "type": "CONSTANT"
+                  }
+              ],
+              "is_deriv": true
+          }
+      ]
+  }
+}
