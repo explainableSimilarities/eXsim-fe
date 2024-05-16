@@ -1,6 +1,8 @@
+# neXSim Web Interface
+
 This is a the web-based user interface for neXSim
 
-## For running it on your local machine (requiring [https://nodejs.org/en](node) and [https://www.npmjs.com/](npm) )
+For running it on your local machine (requiring [https://nodejs.org/en](node) and [https://www.npmjs.com/](npm) )
 
 It requires a running instance of [https://github.com/explainableSimilarities/neXSim-be](neXSim-be) for connecting to the corresponding APIs
 
