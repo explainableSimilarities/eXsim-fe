@@ -1,1032 +1,841 @@
 {
-  "entities": [
-      {
-          "entity": [
-              {
-                  "name": [
-                      "bn:03471444n"
-                  ],
-                  "type": "CONSTANT",
-                  "babelNetEntity": {
-                      "main_sense": "Vaccarizzo_Albanese",
-                      "description": "Vaccarizzo Albanese is an Italian town and comune of the province of Cosenza, Calabria region.",
-                      "synonyms": [
-                          "Vakari\u00e7i",
-                          "Vaccarizzo",
-                          "Vakarici"
-                      ],
-                      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Map_of_comune_of_Vaccarizzo_Albanese_%28province_of_Cosenza%2C_region_Calabria%2C_Italy%29.svg"
-                  }
-              }
-          ],
-          "summary": {
-              "atoms": {
-                  "predicates": [
-                      {
-                          "type": "OTHER",
-                          "name": "SHARES_BORDER_WITH",
-                          "terms": [
-                              {
-                                  "name": [
-                                      "bn:03471444n"
-                                  ],
-                                  "type": "CONSTANT"
-                              },
-                              {
-                                  "name": [
-                                      "bn:03471516n",
-                                      "bn:03471346n"
-                                  ],
-                                  "type": "AGGREGATED_TERM"
-                              }
-                          ],
-                          "is_deriv": false
-                      },
-                      {
-                          "type": "OTHER",
-                          "name": "SHARES_BORDER_WITH",
-                          "terms": [
-                              {
-                                  "name": [
-                                      "bn:03471444n"
-                                  ],
-                                  "type": "CONSTANT"
-                              },
-                              {
-                                  "name": [
-                                      "bn:03471314n"
-                                  ],
-                                  "type": "CONSTANT"
-                              }
-                          ],
-                          "is_deriv": false
-                      },
-                      {
-                          "type": "OTHER",
-                          "name": "LOCATED_IN_TIME_ZONE",
-                          "terms": [
-                              {
-                                  "name": [
-                                      "bn:03471444n"
-                                  ],
-                                  "type": "CONSTANT"
-                              },
-                              {
-                                  "name": [
-                                      "bn:01623792n"
-                                  ],
-                                  "type": "CONSTANT"
-                              }
-                          ],
-                          "is_deriv": false
-                      },
-                      {
-                          "type": "OTHER",
-                          "name": "LOCATED_IN_TIME_ZONE",
-                          "terms": [
-                              {
-                                  "name": [
-                                      "bn:03471444n"
-                                  ],
-                                  "type": "CONSTANT"
-                              },
-                              {
-                                  "name": [
-                                      "bn:01624321n"
-                                  ],
-                                  "type": "CONSTANT"
-                              }
-                          ],
-                          "is_deriv": false
-                      },
-                      {
-                          "type": "OTHER",
-                          "name": "LOCATED_IN_THE_ADMINISTRATIVE_TERRITORIAL_ENTITY",
-                          "terms": [
-                              {
-                                  "name": [
-                                      "bn:03471444n"
-                                  ],
-                                  "type": "CONSTANT"
-                              },
-                              {
-                                  "name": [
-                                      "bn:00624539n"
-                                  ],
-                                  "type": "CONSTANT"
-                              }
-                          ],
-                          "is_deriv": false
-                      },
-                      {
-                          "type": "HYPERNYM",
-                          "name": "HYPER",
-                          "terms": [
-                              {
-                                  "name": [
-                                      "bn:03471444n"
-                                  ],
-                                  "type": "CONSTANT"
-                              },
-                              {
-                                  "name": [
-                                      "bn:03219144n"
-                                  ],
-                                  "type": "CONSTANT"
-                              }
-                          ],
-                          "is_deriv": true
-                      },
-                      {
-                          "type": "HYPERNYM",
-                          "name": "HYPER",
-                          "terms": [
-                              {
-                                  "name": [
-                                      "bn:03471444n"
-                                  ],
-                                  "type": "CONSTANT"
-                              },
-                              {
-                                  "name": [
-                                      "bn:00042729n"
-                                  ],
-                                  "type": "CONSTANT"
-                              }
-                          ],
-                          "is_deriv": false
-                      },
-                      {
-                          "type": "OTHER",
-                          "name": "COUNTRY",
-                          "terms": [
-                              {
-                                  "name": [
-                                      "bn:03471444n"
-                                  ],
-                                  "type": "CONSTANT"
-                              },
-                              {
-                                  "name": [
-                                      "bn:00047705n"
-                                  ],
-                                  "type": "CONSTANT"
-                              }
-                          ],
-                          "is_deriv": false
-                      }
-                  ]
-              },
-              "terms": [
-                  {
-                      "id": "bn:03471314n",
-                      "occurrences": 1,
-                      "full_repr": {
-                          "name": [
-                              "bn:03471314n"
-                          ],
-                          "type": "CONSTANT",
-                          "babelNetEntity": {
-                              "main_sense": "Acri",
-                              "description": "Acri is a town and comune in the province of Cosenza in the Calabria region of southern Italy.",
-                              "synonyms": [
-                                  "Acri,_Italy"
-                              ],
-                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Immagine-Acri_quartieri_Picitti_Santa_Croce_Odivella.JPG"
-                          }
-                      }
-                  },
-                  {
-                      "id": "bn:03471516n",
-                      "occurrences": 1,
-                      "full_repr": {
-                          "name": [
-                              "bn:03471516n"
-                          ],
-                          "type": "CONSTANT",
-                          "babelNetEntity": {
-                              "main_sense": "San_Giorgio_Albanese",
-                              "description": "San Giorgio Albanese is a town and comune in the province of Cosenza in the Calabria region of southern Italy.",
-                              "synonyms": [],
-                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Map_of_comune_of_San_Giorgio_Albanese_%28province_of_Cosenza%2C_region_Calabria%2C_Italy%29.svg"
-                          }
-                      }
-                  },
-                  {
-                      "id": "bn:03471346n",
-                      "occurrences": 1,
-                      "full_repr": {
-                          "name": [
-                              "bn:03471346n"
-                          ],
-                          "type": "CONSTANT",
-                          "babelNetEntity": {
-                              "main_sense": "San_Cosmo_Albanese",
-                              "description": "San Cosmo Albanese is a village and comune in the province of Cosenza in the Calabria region of southern Italy.",
-                              "synonyms": [],
-                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Map_of_comune_of_San_Cosmo_Albanese_%28province_of_Cosenza%2C_region_Calabria%2C_Italy%29.svg"
-                          }
-                      }
-                  },
-                  {
-                      "id": "bn:01623792n",
-                      "occurrences": 1,
-                      "full_repr": {
-                          "name": [
-                              "bn:01623792n"
-                          ],
-                          "type": "CONSTANT",
-                          "babelNetEntity": {
-                              "main_sense": "UTC+01:00",
-                              "description": "UTC+01:00, known simply as UTC+1, is a time offset that adds 1 hour to Coordinated Universal Time.",
-                              "synonyms": [
-                                  "Swatch_Internet_Time",
-                                  "BST+1",
-                                  "UTC1",
-                                  "GMT+1",
-                                  "UTC+1",
-                                  "Central_European_Time",
-                                  "Western_European_Summer_Time",
-                                  "Irish_Standard_Time",
-                                  "British_Summer_Time",
-                                  "West_Africa_Time",
-                                  "CET",
-                                  "Rome_Time",
-                                  "UTC_+1",
-                                  "UTC+1",
-                                  "UTC+_1",
-                                  "UTC+01",
-                                  "Euro-time",
-                                  "GMT_+1",
-                                  "Eurotime",
-                                  "Euro_Time"
-                              ],
-                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Timezones2011_UTC%2B1.png"
-                          }
-                      }
-                  },
-                  {
-                      "id": "bn:01624321n",
-                      "occurrences": 1,
-                      "full_repr": {
-                          "name": [
-                              "bn:01624321n"
-                          ],
-                          "type": "CONSTANT",
-                          "babelNetEntity": {
-                              "main_sense": "UTC+02:00",
-                              "description": "UTC+02:00 is an identifier for a time offset from UTC of +02.",
-                              "synonyms": [
-                                  "UTC+02",
-                                  "UTC+2",
-                                  "CEST",
-                                  "Central_European_Summer_Time",
-                                  "UTC+2:00",
-                                  "UTC2",
-                                  "GMT+2",
-                                  "Eastern_European_Time",
-                                  "utc+2",
-                                  "Central_Africa_Time",
-                                  "West_Africa_Summer_Time",
-                                  "Israel_Standard_Time",
-                                  "South_African_Standard_Time"
-                              ],
-                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/UTC%2B2_%282011%29.png"
-                          }
-                      }
-                  },
-                  {
-                      "id": "bn:00624539n",
-                      "occurrences": 1,
-                      "full_repr": {
-                          "name": [
-                              "bn:00624539n"
-                          ],
-                          "type": "CONSTANT",
-                          "babelNetEntity": {
-                              "main_sense": "Province_of_Cosenza",
-                              "description": "The province of Cosenza is a province in the Calabria region of Italy.",
-                              "synonyms": [
-                                  "Cosenza",
-                                  "Cosenza",
-                                  "Cosenza_Province",
-                                  "Cosenza_(province)",
-                                  "Provincia_di_Cosenza",
-                                  "Province_of_cosenza",
-                                  "Cosenza_province",
-                                  "provincia_di_Cosenza",
-                                  "provincia_di_Cosenza"
-                              ],
-                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Cosenza_posizione.png"
-                          }
-                      }
-                  },
-                  {
-                      "id": "bn:03219144n",
-                      "occurrences": 2,
-                      "full_repr": {
-                          "name": [
-                              "bn:03219144n"
-                          ],
-                          "type": "CONSTANT",
-                          "babelNetEntity": {
-                              "main_sense": "comune",
-                              "description": "The comune is a basic administrative division in Italy, roughly equivalent to a township or municipality.",
-                              "synonyms": [
-                                  "Comuni_of_Italy",
-                                  "comune_of_Italy",
-                                  "Comunes",
-                                  "Municipalities_of_Italy",
-                                  "Municipalities_of_italy",
-                                  "Comune",
-                                  "Comuni_d'Italia",
-                                  "Communes_of_Italy",
-                                  "Sindaco",
-                                  "Italian_communes",
-                                  "Italian_commune",
-                                  "Italian_comunes",
-                                  "Municipio_(Italy)",
-                                  "Comuni",
-                                  "Capoluogo"
-                              ],
-                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Administrative_map_of_Italy_showing_regions%2C_provinces_and_communes.png"
-                          }
-                      }
-                  },
-                  {
-                      "id": "bn:00042729n",
-                      "occurrences": 1,
-                      "full_repr": {
-                          "name": [
-                              "bn:00042729n"
-                          ],
-                          "type": "CONSTANT",
-                          "babelNetEntity": {
-                              "main_sense": "village",
-                              "description": "A settlement smaller than a town",
-                              "synonyms": [
-                                  "Villiage",
-                                  "Selo_(Ukraine)",
-                                  "small_town",
-                                  "Village_President",
-                                  "Kompong",
-                                  "Kampung",
-                                  "\u1ea4p",
-                                  "Kampungs",
-                                  "Villages",
-                                  "Village_Center",
-                                  "Kpg",
-                                  "Kampuang",
-                                  "hamlet",
-                                  "Ortsteil",
-                                  "hamlet",
-                                  "hamlet"
-                              ],
-                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Globe_and_books_mgx.svg"
-                          }
-                      }
-                  },
-                  {
-                      "id": "bn:00047705n",
-                      "occurrences": 1,
-                      "full_repr": {
-                          "name": [
-                              "bn:00047705n"
-                          ],
-                          "type": "CONSTANT",
-                          "babelNetEntity": {
-                              "main_sense": "Italy",
-                              "description": "A republic in southern Europe on the Italian Peninsula; was the core of the Roman Republic and the Roman Empire between the 4th century BC and the 5th century AD",
-                              "synonyms": [
-                                  "The_Italian_Republic",
-                                  "Italia",
-                                  "ItalY",
-                                  "Repubblica_Italiana",
-                                  "The_Italian_republic",
-                                  "ISO_3166-1:IT",
-                                  "Environment_of_Italy",
-                                  "Italian_Republic",
-                                  "Etymology_of_Italy",
-                                  "Italia",
-                                  "Subdivisions_of_Italy",
-                                  "Administrative_subdivisions_of_Italy",
-                                  "IT",
-                                  "Italija",
-                                  "Administrative_divisions_of_Italy",
-                                  "Itali\u00ebn",
-                                  "Pollution_in_Italy",
-                                  "Republic_of_Italy",
-                                  "It\u00e0lia",
-                                  "Itali",
-                                  "Italio",
-                                  "Austrian_Empire_(Italy)",
-                                  "Italie",
-                                  "Italians",
-                                  "Italian",
-                                  "Florence",
-                                  "ITALY",
-                                  "Italian_Republic",
-                                  "it",
-                                  "Italian_Republic",
-                                  "Republic_of_Italy",
-                                  "Italian_Republic",
-                                  "Italian_Republic",
-                                  "Italia"
-                              ],
-                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg"
-                          }
-                      }
-                  }
-              ]
-          }
-      },
-      {
-          "entity": [
-              {
-                  "name": [
-                      "bn:03471502n"
-                  ],
-                  "type": "CONSTANT",
-                  "babelNetEntity": {
-                      "main_sense": "Santa_Sofia_d'Epiro",
-                      "description": "Santa Sofia d'Epiro is an Arberesh town and comune in the province of Cosenza in the Calabria region of southern Italy.",
-                      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Map_of_comune_of_Santa_Sofia_d%27Epiro_%28province_of_Cosenza%2C_region_Calabria%2C_Italy%29.svg"
-                  }
-              }
-          ],
-          "summary": {
-              "atoms": {
-                  "predicates": [
-                      {
-                          "type": "OTHER",
-                          "name": "SHARES_BORDER_WITH",
-                          "terms": [
-                              {
-                                  "name": [
-                                      "bn:03471502n"
-                                  ],
-                                  "type": "CONSTANT"
-                              },
-                              {
-                                  "name": [
-                                      "bn:03471336n",
-                                      "bn:03471530n",
-                                      "bn:03471438n"
-                                  ],
-                                  "type": "AGGREGATED_TERM"
-                              }
-                          ],
-                          "is_deriv": false
-                      },
-                      {
-                          "type": "OTHER",
-                          "name": "SHARES_BORDER_WITH",
-                          "terms": [
-                              {
-                                  "name": [
-                                      "bn:03471502n"
-                                  ],
-                                  "type": "CONSTANT"
-                              },
-                              {
-                                  "name": [
-                                      "bn:03471314n"
-                                  ],
-                                  "type": "CONSTANT"
-                              }
-                          ],
-                          "is_deriv": false
-                      },
-                      {
-                          "type": "OTHER",
-                          "name": "LOCATED_IN_TIME_ZONE",
-                          "terms": [
-                              {
-                                  "name": [
-                                      "bn:03471502n"
-                                  ],
-                                  "type": "CONSTANT"
-                              },
-                              {
-                                  "name": [
-                                      "bn:01623792n"
-                                  ],
-                                  "type": "CONSTANT"
-                              }
-                          ],
-                          "is_deriv": false
-                      },
-                      {
-                          "type": "OTHER",
-                          "name": "LOCATED_IN_TIME_ZONE",
-                          "terms": [
-                              {
-                                  "name": [
-                                      "bn:03471502n"
-                                  ],
-                                  "type": "CONSTANT"
-                              },
-                              {
-                                  "name": [
-                                      "bn:01624321n"
-                                  ],
-                                  "type": "CONSTANT"
-                              }
-                          ],
-                          "is_deriv": false
-                      },
-                      {
-                          "type": "OTHER",
-                          "name": "LOCATED_IN_THE_ADMINISTRATIVE_TERRITORIAL_ENTITY",
-                          "terms": [
-                              {
-                                  "name": [
-                                      "bn:03471502n"
-                                  ],
-                                  "type": "CONSTANT"
-                              },
-                              {
-                                  "name": [
-                                      "bn:00624539n"
-                                  ],
-                                  "type": "CONSTANT"
-                              }
-                          ],
-                          "is_deriv": false
-                      },
-                      {
-                          "type": "HYPERNYM",
-                          "name": "HYPER",
-                          "terms": [
-                              {
-                                  "name": [
-                                      "bn:03471502n"
-                                  ],
-                                  "type": "CONSTANT"
-                              },
-                              {
-                                  "name": [
-                                      "bn:03219144n"
-                                  ],
-                                  "type": "CONSTANT"
-                              }
-                          ],
-                          "is_deriv": true
-                      },
-                      {
-                          "type": "HYPERNYM",
-                          "name": "HYPER",
-                          "terms": [
-                              {
-                                  "name": [
-                                      "bn:03471502n"
-                                  ],
-                                  "type": "CONSTANT"
-                              },
-                              {
-                                  "name": [
-                                      "bn:00077773n"
-                                  ],
-                                  "type": "CONSTANT"
-                              }
-                          ],
-                          "is_deriv": false
-                      },
-                      {
-                          "type": "OTHER",
-                          "name": "COUNTRY",
-                          "terms": [
-                              {
-                                  "name": [
-                                      "bn:03471502n"
-                                  ],
-                                  "type": "CONSTANT"
-                              },
-                              {
-                                  "name": [
-                                      "bn:00047705n"
-                                  ],
-                                  "type": "CONSTANT"
-                              }
-                          ],
-                          "is_deriv": false
-                      }
-                  ]
-              },
-              "terms": [
-                  {
-                      "id": "bn:03471336n",
-                      "occurrences": 1,
-                      "full_repr": {
-                          "name": [
-                              "bn:03471336n"
-                          ],
-                          "type": "CONSTANT",
-                          "babelNetEntity": {
-                              "main_sense": "Bisignano",
-                              "description": "Bisignano is a town and comune in the province of Cosenza, part of the Calabria region of southern Italy.",
-                              "synonyms": [],
-                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Bisignano.jpeg"
-                          }
-                      }
-                  },
-                  {
-                      "id": "bn:03471530n",
-                      "occurrences": 1,
-                      "full_repr": {
-                          "name": [
-                              "bn:03471530n"
-                          ],
-                          "type": "CONSTANT",
-                          "babelNetEntity": {
-                              "main_sense": "Tarsia",
-                              "description": "Tarsia is a town and comune in the province of Cosenza in the Calabria region of southern Italy.",
-                              "synonyms": [
-                                  "Tarsia,_Calabria"
-                              ],
-                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Map_of_comune_of_Tarsia_%28province_of_Cosenza%2C_region_Calabria%2C_Italy%29.svg"
-                          }
-                      }
-                  },
-                  {
-                      "id": "bn:03471314n",
-                      "occurrences": 1,
-                      "full_repr": {
-                          "name": [
-                              "bn:03471314n"
-                          ],
-                          "type": "CONSTANT",
-                          "babelNetEntity": {
-                              "main_sense": "Acri",
-                              "description": "Acri is a town and comune in the province of Cosenza in the Calabria region of southern Italy.",
-                              "synonyms": [
-                                  "Acri,_Italy"
-                              ],
-                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Immagine-Acri_quartieri_Picitti_Santa_Croce_Odivella.JPG"
-                          }
-                      }
-                  },
-                  {
-                      "id": "bn:03471438n",
-                      "occurrences": 1,
-                      "full_repr": {
-                          "name": [
-                              "bn:03471438n"
-                          ],
-                          "type": "CONSTANT",
-                          "babelNetEntity": {
-                              "main_sense": "San_Demetrio_Corone",
-                              "description": "San Demetrio Corone is a town and municipality in the province of Cosenza in the Calabria region of southern Italy.",
-                              "synonyms": [],
-                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Map_of_comune_of_San_Demetrio_Corone_%28province_of_Cosenza%2C_region_Calabria%2C_Italy%29.svg"
-                          }
-                      }
-                  },
-                  {
-                      "id": "bn:01623792n",
-                      "occurrences": 1,
-                      "full_repr": {
-                          "name": [
-                              "bn:01623792n"
-                          ],
-                          "type": "CONSTANT",
-                          "babelNetEntity": {
-                              "main_sense": "UTC+01:00",
-                              "description": "UTC+01:00, known simply as UTC+1, is a time offset that adds 1 hour to Coordinated Universal Time.",
-                              "synonyms": [
-                                  "Swatch_Internet_Time",
-                                  "BST+1",
-                                  "UTC1",
-                                  "GMT+1",
-                                  "UTC+1",
-                                  "Central_European_Time",
-                                  "Western_European_Summer_Time",
-                                  "Irish_Standard_Time",
-                                  "British_Summer_Time",
-                                  "West_Africa_Time",
-                                  "CET",
-                                  "Rome_Time",
-                                  "UTC_+1",
-                                  "UTC+1",
-                                  "UTC+_1",
-                                  "UTC+01",
-                                  "Euro-time",
-                                  "GMT_+1",
-                                  "Eurotime",
-                                  "Euro_Time"
-                              ],
-                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Timezones2011_UTC%2B1.png"
-                          }
-                      }
-                  },
-                  {
-                      "id": "bn:01624321n",
-                      "occurrences": 1,
-                      "full_repr": {
-                          "name": [
-                              "bn:01624321n"
-                          ],
-                          "type": "CONSTANT",
-                          "babelNetEntity": {
-                              "main_sense": "UTC+02:00",
-                              "description": "UTC+02:00 is an identifier for a time offset from UTC of +02.",
-                              "synonyms": [
-                                  "UTC+02",
-                                  "UTC+2",
-                                  "CEST",
-                                  "Central_European_Summer_Time",
-                                  "UTC+2:00",
-                                  "UTC2",
-                                  "GMT+2",
-                                  "Eastern_European_Time",
-                                  "utc+2",
-                                  "Central_Africa_Time",
-                                  "West_Africa_Summer_Time",
-                                  "Israel_Standard_Time",
-                                  "South_African_Standard_Time"
-                              ],
-                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/UTC%2B2_%282011%29.png"
-                          }
-                      }
-                  },
-                  {
-                      "id": "bn:00624539n",
-                      "occurrences": 1,
-                      "full_repr": {
-                          "name": [
-                              "bn:00624539n"
-                          ],
-                          "type": "CONSTANT",
-                          "babelNetEntity": {
-                              "main_sense": "Province_of_Cosenza",
-                              "description": "The province of Cosenza is a province in the Calabria region of Italy.",
-                              "synonyms": [
-                                  "Cosenza",
-                                  "Cosenza",
-                                  "Cosenza_Province",
-                                  "Cosenza_(province)",
-                                  "Provincia_di_Cosenza",
-                                  "Province_of_cosenza",
-                                  "Cosenza_province",
-                                  "provincia_di_Cosenza",
-                                  "provincia_di_Cosenza"
-                              ],
-                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Cosenza_posizione.png"
-                          }
-                      }
-                  },
-                  {
-                      "id": "bn:00077773n",
-                      "occurrences": 1,
-                      "full_repr": {
-                          "name": [
-                              "bn:00077773n"
-                          ],
-                          "type": "CONSTANT",
-                          "babelNetEntity": {
-                              "main_sense": "town",
-                              "description": "An urban area with a fixed boundary that is smaller than a city",
-                              "synonyms": [
-                                  "Town_(Washington)",
-                                  "Town_(Delaware)",
-                                  "Town_(North_Carolina)",
-                                  "borough",
-                                  "Town_(Virginia)",
-                                  "Town_(Illinois)",
-                                  "City_(Utah)",
-                                  "large_village",
-                                  "Town_(Utah)",
-                                  "Town_(Oklahoma)",
-                                  "Town_(Wyoming)",
-                                  "Town_(South_Carolina)",
-                                  "Town_(West_Virginia)",
-                                  "Town_(Maryland)",
-                                  "City_(Wyoming)",
-                                  "Town_(South_Dakota)",
-                                  "Town_(Florida)",
-                                  "Town_(Georgia)",
-                                  "Town_(Mississippi)",
-                                  "Porkberry",
-                                  "Town_(Arizona)",
-                                  "city",
-                                  "Town_(New_Mexico)",
-                                  "Pilseta",
-                                  "Town_(Louisiana)",
-                                  "Town_(Texas)"
-                              ],
-                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Turkish.town.cesme.jpg"
-                          }
-                      }
-                  },
-                  {
-                      "id": "bn:03219144n",
-                      "occurrences": 2,
-                      "full_repr": {
-                          "name": [
-                              "bn:03219144n"
-                          ],
-                          "type": "CONSTANT",
-                          "babelNetEntity": {
-                              "main_sense": "comune",
-                              "description": "The comune is a basic administrative division in Italy, roughly equivalent to a township or municipality.",
-                              "synonyms": [
-                                  "Comuni_of_Italy",
-                                  "comune_of_Italy",
-                                  "Comunes",
-                                  "Municipalities_of_Italy",
-                                  "Municipalities_of_italy",
-                                  "Comune",
-                                  "Comuni_d'Italia",
-                                  "Communes_of_Italy",
-                                  "Sindaco",
-                                  "Italian_communes",
-                                  "Italian_commune",
-                                  "Italian_comunes",
-                                  "Municipio_(Italy)",
-                                  "Comuni",
-                                  "Capoluogo"
-                              ],
-                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Administrative_map_of_Italy_showing_regions%2C_provinces_and_communes.png"
-                          }
-                      }
-                  },
-                  {
-                      "id": "bn:00047705n",
-                      "occurrences": 1,
-                      "full_repr": {
-                          "name": [
-                              "bn:00047705n"
-                          ],
-                          "type": "CONSTANT",
-                          "babelNetEntity": {
-                              "main_sense": "Italy",
-                              "description": "A republic in southern Europe on the Italian Peninsula; was the core of the Roman Republic and the Roman Empire between the 4th century BC and the 5th century AD",
-                              "synonyms": [
-                                  "The_Italian_Republic",
-                                  "Italia",
-                                  "ItalY",
-                                  "Repubblica_Italiana",
-                                  "The_Italian_republic",
-                                  "ISO_3166-1:IT",
-                                  "Environment_of_Italy",
-                                  "Italian_Republic",
-                                  "Etymology_of_Italy",
-                                  "Italia",
-                                  "Subdivisions_of_Italy",
-                                  "Administrative_subdivisions_of_Italy",
-                                  "IT",
-                                  "Italija",
-                                  "Administrative_divisions_of_Italy",
-                                  "Itali\u00ebn",
-                                  "Pollution_in_Italy",
-                                  "Republic_of_Italy",
-                                  "It\u00e0lia",
-                                  "Itali",
-                                  "Italio",
-                                  "Austrian_Empire_(Italy)",
-                                  "Italie",
-                                  "Italians",
-                                  "Italian",
-                                  "Florence",
-                                  "ITALY",
-                                  "Italian_Republic",
-                                  "it",
-                                  "Italian_Republic",
-                                  "Republic_of_Italy",
-                                  "Italian_Republic",
-                                  "Italian_Republic",
-                                  "Italia"
-                              ],
-                              "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg"
-                          }
-                      }
-                  }
-              ]
-          }
-      }
-  ],
-  "characterization": {
-      "predicates": [
-          {
-              "type": "OTHER",
-              "name": "SHARES_BORDER_WITH",
-              "terms": [
-                  {
-                      "name": [
-                          "bn:03471444n",
-                          "bn:03471502n"
-                      ],
-                      "type": "FREE_VARIABLE"
-                  },
-                  {
-                      "name": [
-                          "bn:03471314n"
-                      ],
-                      "type": "CONSTANT"
-                  }
-              ],
-              "is_deriv": false
-          },
-          {
-              "type": "OTHER",
-              "name": "LOCATED_IN_TIME_ZONE",
-              "terms": [
-                  {
-                      "name": [
-                          "bn:03471444n",
-                          "bn:03471502n"
-                      ],
-                      "type": "FREE_VARIABLE"
-                  },
-                  {
-                      "name": [
-                          "bn:01623792n"
-                      ],
-                      "type": "CONSTANT"
-                  }
-              ],
-              "is_deriv": false
-          },
-          {
-              "type": "OTHER",
-              "name": "LOCATED_IN_TIME_ZONE",
-              "terms": [
-                  {
-                      "name": [
-                          "bn:03471444n",
-                          "bn:03471502n"
-                      ],
-                      "type": "FREE_VARIABLE"
-                  },
-                  {
-                      "name": [
-                          "bn:01624321n"
-                      ],
-                      "type": "CONSTANT"
-                  }
-              ],
-              "is_deriv": false
-          },
-          {
-              "type": "OTHER",
-              "name": "LOCATED_IN_THE_ADMINISTRATIVE_TERRITORIAL_ENTITY",
-              "terms": [
-                  {
-                      "name": [
-                          "bn:03471444n",
-                          "bn:03471502n"
-                      ],
-                      "type": "FREE_VARIABLE"
-                  },
-                  {
-                      "name": [
-                          "bn:00624539n"
-                      ],
-                      "type": "CONSTANT"
-                  }
-              ],
-              "is_deriv": false
-          },
-          {
-              "type": "OTHER",
-              "name": "COUNTRY",
-              "terms": [
-                  {
-                      "name": [
-                          "bn:03471444n",
-                          "bn:03471502n"
-                      ],
-                      "type": "FREE_VARIABLE"
-                  },
-                  {
-                      "name": [
-                          "bn:00047705n"
-                      ],
-                      "type": "CONSTANT"
-                  }
-              ],
-              "is_deriv": false
-          },
-          {
-              "type": "HYPERNYM",
-              "name": "HYPER",
-              "terms": [
-                  {
-                      "name": [
-                          "bn:03471444n",
-                          "bn:03471502n"
-                      ],
-                      "type": "FREE_VARIABLE"
-                  },
-                  {
-                      "name": [
-                          "bn:03219144n"
-                      ],
-                      "type": "CONSTANT"
-                  }
-              ],
-              "is_deriv": true
-          }
-      ]
-  }
+    "entities": [
+        {
+            "entity": [
+                {
+                    "name": [
+                        "bn:03471444n"
+                    ],
+                    "type": "CONSTANT",
+                    "babelNetEntity": {
+                        "main_sense": "Vaccarizzo_Albanese",
+                        "description": "Vaccarizzo Albanese is an Italian town and comune of the province of Cosenza, Calabria region.",
+                        "synonyms": [
+                            "Vakari\u00e7i",
+                            "Vaccarizzo",
+                            "Vakarici"
+                        ],
+                        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Map_of_comune_of_Vaccarizzo_Albanese_%28province_of_Cosenza%2C_region_Calabria%2C_Italy%29.svg"
+                    }
+                }
+            ],
+            "summary": {
+                "atoms": {
+                    "predicates": [
+                        {
+                            "type": "OTHER",
+                            "name": "SHARES_BORDER_WITH",
+                            "terms": [
+                                {
+                                    "name": [
+                                        "bn:03471444n"
+                                    ],
+                                    "type": "CONSTANT"
+                                },
+                                {
+                                    "name": [
+                                        "bn:03471314n"
+                                    ],
+                                    "type": "CONSTANT"
+                                }
+                            ],
+                            "is_deriv": true
+                        },
+                        {
+                            "type": "OTHER",
+                            "name": "SHARES_BORDER_WITH",
+                            "terms": [
+                                {
+                                    "name": [
+                                        "bn:03471444n"
+                                    ],
+                                    "type": "CONSTANT"
+                                },
+                                {
+                                    "name": [
+                                        "bn:03471516n",
+                                        "bn:03471346n"
+                                    ],
+                                    "type": "AGGREGATED_TERM"
+                                }
+                            ],
+                            "is_deriv": false
+                        },
+                        {
+                            "type": "OTHER",
+                            "name": "LOCATED_IN_THE_ADMINISTRATIVE_TERRITORIAL_ENTITY",
+                            "terms": [
+                                {
+                                    "name": [
+                                        "bn:03471444n"
+                                    ],
+                                    "type": "CONSTANT"
+                                },
+                                {
+                                    "name": [
+                                        "bn:00624539n"
+                                    ],
+                                    "type": "CONSTANT"
+                                }
+                            ],
+                            "is_deriv": true
+                        },
+                        {
+                            "type": "OTHER",
+                            "name": "COUNTRY",
+                            "terms": [
+                                {
+                                    "name": [
+                                        "bn:03471444n"
+                                    ],
+                                    "type": "CONSTANT"
+                                },
+                                {
+                                    "name": [
+                                        "bn:00047705n"
+                                    ],
+                                    "type": "CONSTANT"
+                                }
+                            ],
+                            "is_deriv": true
+                        },
+                        {
+                            "type": "HYPERNYM",
+                            "name": "IS_A",
+                            "terms": [
+                                {
+                                    "name": [
+                                        "bn:03471444n"
+                                    ],
+                                    "type": "CONSTANT"
+                                },
+                                {
+                                    "name": [
+                                        "bn:00040160n"
+                                    ],
+                                    "type": "CONSTANT"
+                                }
+                            ],
+                            "is_deriv": true
+                        },
+                        {
+                            "type": "OTHER",
+                            "name": "LOCATED_IN_TIME_ZONE",
+                            "terms": [
+                                {
+                                    "name": [
+                                        "bn:03471444n"
+                                    ],
+                                    "type": "CONSTANT"
+                                },
+                                {
+                                    "name": [
+                                        "bn:01624321n",
+                                        "bn:01623792n"
+                                    ],
+                                    "type": "AGGREGATED_TERM"
+                                }
+                            ],
+                            "is_deriv": true
+                        }
+                    ]
+                },
+                "terms": [
+                    {
+                        "id": "bn:03471314n",
+                        "occurrences": 1,
+                        "full_repr": {
+                            "name": [
+                                "bn:03471314n"
+                            ],
+                            "type": "CONSTANT",
+                            "babelNetEntity": {
+                                "main_sense": "Acri",
+                                "description": "Acri is a town and comune in the province of Cosenza in the Calabria region of southern Italy.",
+                                "synonyms": [
+                                    "Acri,_Italy"
+                                ],
+                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Immagine-Acri_quartieri_Picitti_Santa_Croce_Odivella.JPG"
+                            }
+                        }
+                    },
+                    {
+                        "id": "bn:03471516n",
+                        "occurrences": 1,
+                        "full_repr": {
+                            "name": [
+                                "bn:03471516n"
+                            ],
+                            "type": "CONSTANT",
+                            "babelNetEntity": {
+                                "main_sense": "San_Giorgio_Albanese",
+                                "description": "San Giorgio Albanese is a town and comune in the province of Cosenza in the Calabria region of southern Italy.",
+                                "synonyms": [],
+                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Map_of_comune_of_San_Giorgio_Albanese_%28province_of_Cosenza%2C_region_Calabria%2C_Italy%29.svg"
+                            }
+                        }
+                    },
+                    {
+                        "id": "bn:03471346n",
+                        "occurrences": 1,
+                        "full_repr": {
+                            "name": [
+                                "bn:03471346n"
+                            ],
+                            "type": "CONSTANT",
+                            "babelNetEntity": {
+                                "main_sense": "San_Cosmo_Albanese",
+                                "description": "San Cosmo Albanese is a village and comune in the province of Cosenza in the Calabria region of southern Italy.",
+                                "synonyms": [],
+                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Map_of_comune_of_San_Cosmo_Albanese_%28province_of_Cosenza%2C_region_Calabria%2C_Italy%29.svg"
+                            }
+                        }
+                    },
+                    {
+                        "id": "bn:00624539n",
+                        "occurrences": 1,
+                        "full_repr": {
+                            "name": [
+                                "bn:00624539n"
+                            ],
+                            "type": "CONSTANT",
+                            "babelNetEntity": {
+                                "main_sense": "Province_of_Cosenza",
+                                "description": "The province of Cosenza is a province in the Calabria region of Italy.",
+                                "synonyms": [
+                                    "Cosenza",
+                                    "Cosenza",
+                                    "Cosenza_Province",
+                                    "Cosenza_(province)",
+                                    "Provincia_di_Cosenza",
+                                    "Province_of_cosenza",
+                                    "Cosenza_province",
+                                    "provincia_di_Cosenza",
+                                    "provincia_di_Cosenza"
+                                ],
+                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Cosenza_posizione.png"
+                            }
+                        }
+                    },
+                    {
+                        "id": "bn:00047705n",
+                        "occurrences": 1,
+                        "full_repr": {
+                            "name": [
+                                "bn:00047705n"
+                            ],
+                            "type": "CONSTANT",
+                            "babelNetEntity": {
+                                "main_sense": "Italy",
+                                "description": "A republic in southern Europe on the Italian Peninsula; was the core of the Roman Republic and the Roman Empire between the 4th century BC and the 5th century AD",
+                                "synonyms": [
+                                    "The_Italian_Republic",
+                                    "Italia",
+                                    "ItalY",
+                                    "Repubblica_Italiana",
+                                    "The_Italian_republic",
+                                    "ISO_3166-1:IT",
+                                    "Environment_of_Italy",
+                                    "Italian_Republic",
+                                    "Etymology_of_Italy",
+                                    "Italia",
+                                    "Subdivisions_of_Italy",
+                                    "Administrative_subdivisions_of_Italy",
+                                    "IT",
+                                    "Italija",
+                                    "Administrative_divisions_of_Italy",
+                                    "Itali\u00ebn",
+                                    "Pollution_in_Italy",
+                                    "Republic_of_Italy",
+                                    "It\u00e0lia",
+                                    "Itali",
+                                    "Italio",
+                                    "Austrian_Empire_(Italy)",
+                                    "Italie",
+                                    "Italians",
+                                    "Italian",
+                                    "Florence",
+                                    "ITALY",
+                                    "Italian_Republic",
+                                    "it",
+                                    "Italian_Republic",
+                                    "Republic_of_Italy",
+                                    "Italian_Republic",
+                                    "Italian_Republic",
+                                    "Italia"
+                                ],
+                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg"
+                            }
+                        }
+                    },
+                    {
+                        "id": "bn:01623792n",
+                        "occurrences": 1,
+                        "full_repr": {
+                            "name": [
+                                "bn:01623792n"
+                            ],
+                            "type": "CONSTANT",
+                            "babelNetEntity": {
+                                "main_sense": "UTC+01:00",
+                                "description": "UTC+01:00, known simply as UTC+1, is a time offset that adds 1 hour to Coordinated Universal Time.",
+                                "synonyms": [
+                                    "Swatch_Internet_Time",
+                                    "BST+1",
+                                    "UTC1",
+                                    "GMT+1",
+                                    "UTC+1",
+                                    "Central_European_Time",
+                                    "Western_European_Summer_Time",
+                                    "Irish_Standard_Time",
+                                    "British_Summer_Time",
+                                    "West_Africa_Time",
+                                    "CET",
+                                    "Rome_Time",
+                                    "UTC_+1",
+                                    "UTC+1",
+                                    "UTC+_1",
+                                    "UTC+01",
+                                    "Euro-time",
+                                    "GMT_+1",
+                                    "Eurotime",
+                                    "Euro_Time"
+                                ],
+                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Timezones2011_UTC%2B1.png"
+                            }
+                        }
+                    },
+                    {
+                        "id": "bn:01624321n",
+                        "occurrences": 1,
+                        "full_repr": {
+                            "name": [
+                                "bn:01624321n"
+                            ],
+                            "type": "CONSTANT",
+                            "babelNetEntity": {
+                                "main_sense": "UTC+02:00",
+                                "description": "UTC+02:00 is an identifier for a time offset from UTC of +02.",
+                                "synonyms": [
+                                    "UTC+02",
+                                    "UTC+2",
+                                    "CEST",
+                                    "Central_European_Summer_Time",
+                                    "UTC+2:00",
+                                    "UTC2",
+                                    "GMT+2",
+                                    "Eastern_European_Time",
+                                    "utc+2",
+                                    "Central_Africa_Time",
+                                    "West_Africa_Summer_Time",
+                                    "Israel_Standard_Time",
+                                    "South_African_Standard_Time"
+                                ],
+                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/UTC%2B2_%282011%29.png"
+                            }
+                        }
+                    },
+                    {
+                        "id": "bn:00040160n",
+                        "occurrences": 1,
+                        "full_repr": {
+                            "name": [
+                                "bn:00040160n"
+                            ],
+                            "type": "CONSTANT",
+                            "babelNetEntity": {
+                                "main_sense": "geographic_area",
+                                "description": "A demarcated area of the Earth",
+                                "synonyms": [
+                                    "Geographical_region",
+                                    "geographical_area",
+                                    "geographical_region",
+                                    "geographic_region"
+                                ],
+                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Milankovitch_Variations_sv.png"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "entity": [
+                {
+                    "name": [
+                        "bn:03471502n"
+                    ],
+                    "type": "CONSTANT",
+                    "babelNetEntity": {
+                        "main_sense": "Santa_Sofia_d'Epiro",
+                        "description": "Santa Sofia d'Epiro is an Arberesh town and comune in the province of Cosenza in the Calabria region of southern Italy.",
+                        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Map_of_comune_of_Santa_Sofia_d%27Epiro_%28province_of_Cosenza%2C_region_Calabria%2C_Italy%29.svg"
+                    }
+                }
+            ],
+            "summary": {
+                "atoms": {
+                    "predicates": [
+                        {
+                            "type": "OTHER",
+                            "name": "SHARES_BORDER_WITH",
+                            "terms": [
+                                {
+                                    "name": [
+                                        "bn:03471502n"
+                                    ],
+                                    "type": "CONSTANT"
+                                },
+                                {
+                                    "name": [
+                                        "bn:03471314n"
+                                    ],
+                                    "type": "CONSTANT"
+                                }
+                            ],
+                            "is_deriv": true
+                        },
+                        {
+                            "type": "OTHER",
+                            "name": "SHARES_BORDER_WITH",
+                            "terms": [
+                                {
+                                    "name": [
+                                        "bn:03471502n"
+                                    ],
+                                    "type": "CONSTANT"
+                                },
+                                {
+                                    "name": [
+                                        "bn:03471438n",
+                                        "bn:03471530n",
+                                        "bn:03471336n"
+                                    ],
+                                    "type": "AGGREGATED_TERM"
+                                }
+                            ],
+                            "is_deriv": false
+                        },
+                        {
+                            "type": "OTHER",
+                            "name": "LOCATED_IN_THE_ADMINISTRATIVE_TERRITORIAL_ENTITY",
+                            "terms": [
+                                {
+                                    "name": [
+                                        "bn:03471502n"
+                                    ],
+                                    "type": "CONSTANT"
+                                },
+                                {
+                                    "name": [
+                                        "bn:00624539n"
+                                    ],
+                                    "type": "CONSTANT"
+                                }
+                            ],
+                            "is_deriv": true
+                        },
+                        {
+                            "type": "OTHER",
+                            "name": "COUNTRY",
+                            "terms": [
+                                {
+                                    "name": [
+                                        "bn:03471502n"
+                                    ],
+                                    "type": "CONSTANT"
+                                },
+                                {
+                                    "name": [
+                                        "bn:00047705n"
+                                    ],
+                                    "type": "CONSTANT"
+                                }
+                            ],
+                            "is_deriv": true
+                        },
+                        {
+                            "type": "HYPERNYM",
+                            "name": "IS_A",
+                            "terms": [
+                                {
+                                    "name": [
+                                        "bn:03471502n"
+                                    ],
+                                    "type": "CONSTANT"
+                                },
+                                {
+                                    "name": [
+                                        "bn:00040160n"
+                                    ],
+                                    "type": "CONSTANT"
+                                }
+                            ],
+                            "is_deriv": true
+                        },
+                        {
+                            "type": "OTHER",
+                            "name": "LOCATED_IN_TIME_ZONE",
+                            "terms": [
+                                {
+                                    "name": [
+                                        "bn:03471502n"
+                                    ],
+                                    "type": "CONSTANT"
+                                },
+                                {
+                                    "name": [
+                                        "bn:01624321n",
+                                        "bn:01623792n"
+                                    ],
+                                    "type": "AGGREGATED_TERM"
+                                }
+                            ],
+                            "is_deriv": true
+                        }
+                    ]
+                },
+                "terms": [
+                    {
+                        "id": "bn:03471336n",
+                        "occurrences": 1,
+                        "full_repr": {
+                            "name": [
+                                "bn:03471336n"
+                            ],
+                            "type": "CONSTANT",
+                            "babelNetEntity": {
+                                "main_sense": "Bisignano",
+                                "description": "Bisignano is a town and comune in the province of Cosenza, part of the Calabria region of southern Italy.",
+                                "synonyms": [],
+                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Bisignano.jpeg"
+                            }
+                        }
+                    },
+                    {
+                        "id": "bn:03471530n",
+                        "occurrences": 1,
+                        "full_repr": {
+                            "name": [
+                                "bn:03471530n"
+                            ],
+                            "type": "CONSTANT",
+                            "babelNetEntity": {
+                                "main_sense": "Tarsia",
+                                "description": "Tarsia is a town and comune in the province of Cosenza in the Calabria region of southern Italy.",
+                                "synonyms": [
+                                    "Tarsia,_Calabria"
+                                ],
+                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Map_of_comune_of_Tarsia_%28province_of_Cosenza%2C_region_Calabria%2C_Italy%29.svg"
+                            }
+                        }
+                    },
+                    {
+                        "id": "bn:03471314n",
+                        "occurrences": 1,
+                        "full_repr": {
+                            "name": [
+                                "bn:03471314n"
+                            ],
+                            "type": "CONSTANT",
+                            "babelNetEntity": {
+                                "main_sense": "Acri",
+                                "description": "Acri is a town and comune in the province of Cosenza in the Calabria region of southern Italy.",
+                                "synonyms": [
+                                    "Acri,_Italy"
+                                ],
+                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Immagine-Acri_quartieri_Picitti_Santa_Croce_Odivella.JPG"
+                            }
+                        }
+                    },
+                    {
+                        "id": "bn:03471438n",
+                        "occurrences": 1,
+                        "full_repr": {
+                            "name": [
+                                "bn:03471438n"
+                            ],
+                            "type": "CONSTANT",
+                            "babelNetEntity": {
+                                "main_sense": "San_Demetrio_Corone",
+                                "description": "San Demetrio Corone is a town and municipality in the province of Cosenza in the Calabria region of southern Italy.",
+                                "synonyms": [],
+                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Map_of_comune_of_San_Demetrio_Corone_%28province_of_Cosenza%2C_region_Calabria%2C_Italy%29.svg"
+                            }
+                        }
+                    },
+                    {
+                        "id": "bn:00624539n",
+                        "occurrences": 1,
+                        "full_repr": {
+                            "name": [
+                                "bn:00624539n"
+                            ],
+                            "type": "CONSTANT",
+                            "babelNetEntity": {
+                                "main_sense": "Province_of_Cosenza",
+                                "description": "The province of Cosenza is a province in the Calabria region of Italy.",
+                                "synonyms": [
+                                    "Cosenza",
+                                    "Cosenza",
+                                    "Cosenza_Province",
+                                    "Cosenza_(province)",
+                                    "Provincia_di_Cosenza",
+                                    "Province_of_cosenza",
+                                    "Cosenza_province",
+                                    "provincia_di_Cosenza",
+                                    "provincia_di_Cosenza"
+                                ],
+                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Cosenza_posizione.png"
+                            }
+                        }
+                    },
+                    {
+                        "id": "bn:00047705n",
+                        "occurrences": 1,
+                        "full_repr": {
+                            "name": [
+                                "bn:00047705n"
+                            ],
+                            "type": "CONSTANT",
+                            "babelNetEntity": {
+                                "main_sense": "Italy",
+                                "description": "A republic in southern Europe on the Italian Peninsula; was the core of the Roman Republic and the Roman Empire between the 4th century BC and the 5th century AD",
+                                "synonyms": [
+                                    "The_Italian_Republic",
+                                    "Italia",
+                                    "ItalY",
+                                    "Repubblica_Italiana",
+                                    "The_Italian_republic",
+                                    "ISO_3166-1:IT",
+                                    "Environment_of_Italy",
+                                    "Italian_Republic",
+                                    "Etymology_of_Italy",
+                                    "Italia",
+                                    "Subdivisions_of_Italy",
+                                    "Administrative_subdivisions_of_Italy",
+                                    "IT",
+                                    "Italija",
+                                    "Administrative_divisions_of_Italy",
+                                    "Itali\u00ebn",
+                                    "Pollution_in_Italy",
+                                    "Republic_of_Italy",
+                                    "It\u00e0lia",
+                                    "Itali",
+                                    "Italio",
+                                    "Austrian_Empire_(Italy)",
+                                    "Italie",
+                                    "Italians",
+                                    "Italian",
+                                    "Florence",
+                                    "ITALY",
+                                    "Italian_Republic",
+                                    "it",
+                                    "Italian_Republic",
+                                    "Republic_of_Italy",
+                                    "Italian_Republic",
+                                    "Italian_Republic",
+                                    "Italia"
+                                ],
+                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg"
+                            }
+                        }
+                    },
+                    {
+                        "id": "bn:01623792n",
+                        "occurrences": 1,
+                        "full_repr": {
+                            "name": [
+                                "bn:01623792n"
+                            ],
+                            "type": "CONSTANT",
+                            "babelNetEntity": {
+                                "main_sense": "UTC+01:00",
+                                "description": "UTC+01:00, known simply as UTC+1, is a time offset that adds 1 hour to Coordinated Universal Time.",
+                                "synonyms": [
+                                    "Swatch_Internet_Time",
+                                    "BST+1",
+                                    "UTC1",
+                                    "GMT+1",
+                                    "UTC+1",
+                                    "Central_European_Time",
+                                    "Western_European_Summer_Time",
+                                    "Irish_Standard_Time",
+                                    "British_Summer_Time",
+                                    "West_Africa_Time",
+                                    "CET",
+                                    "Rome_Time",
+                                    "UTC_+1",
+                                    "UTC+1",
+                                    "UTC+_1",
+                                    "UTC+01",
+                                    "Euro-time",
+                                    "GMT_+1",
+                                    "Eurotime",
+                                    "Euro_Time"
+                                ],
+                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Timezones2011_UTC%2B1.png"
+                            }
+                        }
+                    },
+                    {
+                        "id": "bn:01624321n",
+                        "occurrences": 1,
+                        "full_repr": {
+                            "name": [
+                                "bn:01624321n"
+                            ],
+                            "type": "CONSTANT",
+                            "babelNetEntity": {
+                                "main_sense": "UTC+02:00",
+                                "description": "UTC+02:00 is an identifier for a time offset from UTC of +02.",
+                                "synonyms": [
+                                    "UTC+02",
+                                    "UTC+2",
+                                    "CEST",
+                                    "Central_European_Summer_Time",
+                                    "UTC+2:00",
+                                    "UTC2",
+                                    "GMT+2",
+                                    "Eastern_European_Time",
+                                    "utc+2",
+                                    "Central_Africa_Time",
+                                    "West_Africa_Summer_Time",
+                                    "Israel_Standard_Time",
+                                    "South_African_Standard_Time"
+                                ],
+                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/UTC%2B2_%282011%29.png"
+                            }
+                        }
+                    },
+                    {
+                        "id": "bn:00040160n",
+                        "occurrences": 1,
+                        "full_repr": {
+                            "name": [
+                                "bn:00040160n"
+                            ],
+                            "type": "CONSTANT",
+                            "babelNetEntity": {
+                                "main_sense": "geographic_area",
+                                "description": "A demarcated area of the Earth",
+                                "synonyms": [
+                                    "Geographical_region",
+                                    "geographical_area",
+                                    "geographical_region",
+                                    "geographic_region"
+                                ],
+                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Milankovitch_Variations_sv.png"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "characterization": {
+        "predicates": [
+            {
+                "type": "OTHER",
+                "name": "SHARES_BORDER_WITH",
+                "terms": [
+                    {
+                        "name": [
+                            "bn:03471444n",
+                            "bn:03471502n"
+                        ],
+                        "type": "FREE_VARIABLE"
+                    },
+                    {
+                        "name": [
+                            "bn:03471314n"
+                        ],
+                        "type": "CONSTANT"
+                    }
+                ],
+                "is_deriv": true
+            },
+            {
+                "type": "OTHER",
+                "name": "LOCATED_IN_THE_ADMINISTRATIVE_TERRITORIAL_ENTITY",
+                "terms": [
+                    {
+                        "name": [
+                            "bn:03471444n",
+                            "bn:03471502n"
+                        ],
+                        "type": "FREE_VARIABLE"
+                    },
+                    {
+                        "name": [
+                            "bn:00624539n"
+                        ],
+                        "type": "CONSTANT"
+                    }
+                ],
+                "is_deriv": true
+            },
+            {
+                "type": "OTHER",
+                "name": "COUNTRY",
+                "terms": [
+                    {
+                        "name": [
+                            "bn:03471444n",
+                            "bn:03471502n"
+                        ],
+                        "type": "FREE_VARIABLE"
+                    },
+                    {
+                        "name": [
+                            "bn:00047705n"
+                        ],
+                        "type": "CONSTANT"
+                    }
+                ],
+                "is_deriv": true
+            },
+            {
+                "type": "HYPERNYM",
+                "name": "IS_A",
+                "terms": [
+                    {
+                        "name": [
+                            "bn:03471444n",
+                            "bn:03471502n"
+                        ],
+                        "type": "FREE_VARIABLE"
+                    },
+                    {
+                        "name": [
+                            "bn:00040160n"
+                        ],
+                        "type": "CONSTANT"
+                    }
+                ],
+                "is_deriv": true
+            },
+            {
+                "type": "OTHER",
+                "name": "LOCATED_IN_TIME_ZONE",
+                "terms": [
+                    {
+                        "name": [
+                            "bn:03471444n",
+                            "bn:03471502n"
+                        ],
+                        "type": "FREE_VARIABLE"
+                    },
+                    {
+                        "name": [
+                            "bn:01624321n",
+                            "bn:01623792n"
+                        ],
+                        "type": "AGGREGATED_TERM"
+                    }
+                ],
+                "is_deriv": true
+            }
+        ]
+    }
 }

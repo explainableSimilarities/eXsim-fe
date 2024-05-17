@@ -4,27 +4,26 @@
             "entity": [
                 {
                     "name": [
-                        "bn:00681609n"
+                        "bn:00042730n"
                     ],
                     "type": "CONSTANT",
                     "babelNetEntity": {
-                        "main_sense": "Katana",
-                        "description": "Historically, katana were one of the traditionally made Japanese swords that were used by the samurai of ancient and feudal Japan.",
+                        "main_sense": "hammer",
+                        "description": "A hand tool with a heavy rigid head and a handle; used to deliver an impulsive force by striking",
                         "synonyms": [
-                            "katana",
-                            "Samurai_sword",
-                            "O-Katana",
-                            "Samuri_sword",
-                            "Chiisakatana",
-                            "O-katana",
-                            "\u304b\u305f\u306a",
-                            "\u014ckatana",
-                            "Katanas",
-                            "O_katana",
-                            "Samurai_swords",
-                            "Daikatana_(sword)"
+                            "Birmingham_screwdriver",
+                            "Hammers",
+                            "Birmingham_screwdriver",
+                            "Birmingham_screwdriver",
+                            "\ud83d\udd28",
+                            "\ud83d\udd28",
+                            "Irish_screwdriver",
+                            "Hammer_(substitution)",
+                            "Hammers",
+                            "Irish_screwdriver",
+                            "Hammering"
                         ],
-                        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/P_culture.svg"
+                        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Claw-hammer.jpg"
                     }
                 }
             ],
@@ -33,201 +32,46 @@
                     "predicates": [
                         {
                             "type": "HYPERNYM",
-                            "name": "HYPER",
+                            "name": "IS_A",
                             "terms": [
                                 {
                                     "name": [
-                                        "bn:00681609n"
+                                        "bn:00042730n"
                                     ],
                                     "type": "CONSTANT"
                                 },
                                 {
                                     "name": [
-                                        "bn:00011081n"
+                                        "bn:00077585n"
                                     ],
                                     "type": "CONSTANT"
                                 }
                             ],
                             "is_deriv": true
-                        },
-                        {
-                            "type": "HYPERNYM",
-                            "name": "HYPER",
-                            "terms": [
-                                {
-                                    "name": [
-                                        "bn:00681609n"
-                                    ],
-                                    "type": "CONSTANT"
-                                },
-                                {
-                                    "name": [
-                                        "bn:00925856n"
-                                    ],
-                                    "type": "CONSTANT"
-                                }
-                            ],
-                            "is_deriv": false
                         }
                     ]
                 },
                 "terms": [
                     {
-                        "id": "bn:00925856n",
+                        "id": "bn:00077585n",
                         "occurrences": 1,
                         "full_repr": {
                             "name": [
-                                "bn:00925856n"
+                                "bn:00077585n"
                             ],
                             "type": "CONSTANT",
                             "babelNetEntity": {
-                                "main_sense": "Japanese_sword",
-                                "description": "A Japanese sword is one of several types of traditionally made swords from Japan.",
+                                "main_sense": "tool",
+                                "description": "An implement used in the practice of a vocation",
                                 "synonyms": [
-                                    "Buke-zukuri_mounting",
-                                    "Shoto",
-                                    "Japanese_Sword",
-                                    "Japanese_swords",
-                                    "Dait\u014d_(long_sword)",
-                                    "Daito_(long_sword)",
-                                    "Chisa_katana",
-                                    "Nihont\u014d",
-                                    "History_of_Japanese_Swords",
-                                    "List_of_Japanese_swords",
-                                    "Nihonto",
-                                    "Samurai_blade",
-                                    "Sh\u014dt\u014d",
-                                    "Nihont\u014d",
-                                    "Daito_(weapon)",
-                                    "Japanese_Swords",
-                                    "Japanese_sword_(disambiguation)"
+                                    "Toolcase",
+                                    "Tools_and_equipment",
+                                    "Tool_user",
+                                    "Tools",
+                                    "\ud83d\udee0",
+                                    "Monkey_tools"
                                 ],
-                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Dresden-Zwinger-Armoury-Samurai-Sword.JPG"
-                            }
-                        }
-                    },
-                    {
-                        "id": "bn:00011081n",
-                        "occurrences": 1,
-                        "full_repr": {
-                            "name": [
-                                "bn:00011081n"
-                            ],
-                            "type": "CONSTANT",
-                            "babelNetEntity": {
-                                "main_sense": "sword",
-                                "description": "A cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard",
-                                "synonyms": [
-                                    "Two_edges",
-                                    "History_of_the_steel_sword",
-                                    "One-edged_swords",
-                                    "Double-edge_swords",
-                                    "Single-edge_swords",
-                                    "Two_edge_sword",
-                                    "Singleedged_sword",
-                                    "Oneedged_swords",
-                                    "Bladed_weapons",
-                                    "Two-edge_sword",
-                                    "European_sword",
-                                    "Twoedge_swords",
-                                    "Single-edges",
-                                    "Doubleedge",
-                                    "One-edged_sword",
-                                    "Parts_of_the_sword",
-                                    "Single_edged_swords",
-                                    "Sword_Parts",
-                                    "Two_edged_swords",
-                                    "Two-edged_swords",
-                                    "Oneedge",
-                                    "Singleedged_swords",
-                                    "Two_edged",
-                                    "Two_edge_swords",
-                                    "Swords",
-                                    "Doubleedges",
-                                    "Twoedge_sword",
-                                    "One-edged",
-                                    "List_of_sword_parts",
-                                    "Data_of_the_sword",
-                                    "Single-edged_swords",
-                                    "Double-edge",
-                                    "Presentation_sword",
-                                    "Double_edge_sword",
-                                    "Twoedged",
-                                    "Twoedges",
-                                    "Double_edge_swords",
-                                    "Blade_weapon",
-                                    "Blade_weapons",
-                                    "Two_edged_sword",
-                                    "Doubleedged_sword",
-                                    "Singleedge_swords",
-                                    "Doubleedge_sword",
-                                    "Single_edge_swords",
-                                    "Parts_of_a_sword",
-                                    "Doubleedged",
-                                    "swordsman",
-                                    "rapier",
-                                    "swordsmanship",
-                                    "Swordplay",
-                                    "Swords",
-                                    "Singleedge_sword",
-                                    "Double_edged_swords",
-                                    "Double_edged_sword",
-                                    "Medieval_sword",
-                                    "Single_edge",
-                                    "One_edged_sword",
-                                    "Double-edged_swords",
-                                    "Twoedged_sword",
-                                    "Twoedged_swords",
-                                    "Two-edge_swords",
-                                    "Double-edges",
-                                    "Double-edged",
-                                    "Single_edge_sword",
-                                    "One_edged_swords",
-                                    "Singleedges",
-                                    "Singleedged",
-                                    "Two_edge",
-                                    "Double-edge_sword",
-                                    "One_edged",
-                                    "Single-edge_sword",
-                                    "Sword_(weapon)",
-                                    "One_edge",
-                                    "Training_sword",
-                                    "Sword_blades",
-                                    "Single-edge",
-                                    "Doubleedged_swords",
-                                    "Doubleedge_swords",
-                                    "Sword_belt",
-                                    "Single_edges",
-                                    "Single_edged",
-                                    "Energy_sword",
-                                    "Laser_sword",
-                                    "Energy_swords",
-                                    "Laser-beam_sword",
-                                    "Energy_Sword",
-                                    "Beam_sword",
-                                    "Laser_Sword",
-                                    "Beam_Sword",
-                                    "One-edge",
-                                    "Oneedged",
-                                    "Singleedge",
-                                    "Oneedged_sword",
-                                    "Medieval_European_sword",
-                                    "Two-edged",
-                                    "Single_edged_sword",
-                                    "Two-edged_sword",
-                                    "Two-edges",
-                                    "Twoedge",
-                                    "\u2694",
-                                    "Two-edge",
-                                    "Double_edges",
-                                    "European_medieval_sword",
-                                    "Double_edged",
-                                    "Double-edged_sword",
-                                    "steel",
-                                    "blade",
-                                    "brand"
-                                ],
-                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Middelaldersv%C3%A6rd.jpg"
+                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Gereedschapskist.jpg"
                             }
                         }
                     }
@@ -238,22 +82,123 @@
             "entity": [
                 {
                     "name": [
-                        "bn:00035583n"
+                        "bn:00011081n"
                     ],
                     "type": "CONSTANT",
                     "babelNetEntity": {
-                        "main_sense": "foil",
-                        "description": "A light slender flexible sword tipped by a button",
+                        "main_sense": "sword",
+                        "description": "A cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard",
                         "synonyms": [
-                            "Foil_fencing",
-                            "foil_(fencing)",
-                            "Fencing_foil",
-                            "Fleuret",
-                            "Foil_(sword)",
-                            "Foil-Fencing",
-                            "Pariser_(foil)"
+                            "Two_edges",
+                            "History_of_the_steel_sword",
+                            "One-edged_swords",
+                            "Double-edge_swords",
+                            "Single-edge_swords",
+                            "Two_edge_sword",
+                            "Singleedged_sword",
+                            "Oneedged_swords",
+                            "Bladed_weapons",
+                            "Two-edge_sword",
+                            "European_sword",
+                            "Twoedge_swords",
+                            "Single-edges",
+                            "Doubleedge",
+                            "One-edged_sword",
+                            "Parts_of_the_sword",
+                            "Single_edged_swords",
+                            "Sword_Parts",
+                            "Two_edged_swords",
+                            "Two-edged_swords",
+                            "Oneedge",
+                            "Singleedged_swords",
+                            "Two_edged",
+                            "Two_edge_swords",
+                            "Swords",
+                            "Doubleedges",
+                            "Twoedge_sword",
+                            "One-edged",
+                            "List_of_sword_parts",
+                            "Data_of_the_sword",
+                            "Single-edged_swords",
+                            "Double-edge",
+                            "Presentation_sword",
+                            "Double_edge_sword",
+                            "Twoedged",
+                            "Twoedges",
+                            "Double_edge_swords",
+                            "Blade_weapon",
+                            "Blade_weapons",
+                            "Two_edged_sword",
+                            "Doubleedged_sword",
+                            "Singleedge_swords",
+                            "Doubleedge_sword",
+                            "Single_edge_swords",
+                            "Parts_of_a_sword",
+                            "Doubleedged",
+                            "swordsman",
+                            "rapier",
+                            "swordsmanship",
+                            "Swordplay",
+                            "Swords",
+                            "Singleedge_sword",
+                            "Double_edged_swords",
+                            "Double_edged_sword",
+                            "Medieval_sword",
+                            "Single_edge",
+                            "One_edged_sword",
+                            "Double-edged_swords",
+                            "Twoedged_sword",
+                            "Twoedged_swords",
+                            "Two-edge_swords",
+                            "Double-edges",
+                            "Double-edged",
+                            "Single_edge_sword",
+                            "One_edged_swords",
+                            "Singleedges",
+                            "Singleedged",
+                            "Two_edge",
+                            "Double-edge_sword",
+                            "One_edged",
+                            "Single-edge_sword",
+                            "Sword_(weapon)",
+                            "One_edge",
+                            "Training_sword",
+                            "Sword_blades",
+                            "Single-edge",
+                            "Doubleedged_swords",
+                            "Doubleedge_swords",
+                            "Sword_belt",
+                            "Single_edges",
+                            "Single_edged",
+                            "Energy_sword",
+                            "Laser_sword",
+                            "Energy_swords",
+                            "Laser-beam_sword",
+                            "Energy_Sword",
+                            "Beam_sword",
+                            "Laser_Sword",
+                            "Beam_Sword",
+                            "One-edge",
+                            "Oneedged",
+                            "Singleedge",
+                            "Oneedged_sword",
+                            "Medieval_European_sword",
+                            "Two-edged",
+                            "Single_edged_sword",
+                            "Two-edged_sword",
+                            "Two-edges",
+                            "Twoedge",
+                            "\u2694",
+                            "Two-edge",
+                            "Double_edges",
+                            "European_medieval_sword",
+                            "Double_edged",
+                            "Double-edged_sword",
+                            "steel",
+                            "blade",
+                            "brand"
                         ],
-                        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Foil-2004-A.jpg"
+                        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Middelaldersv%C3%A6rd.jpg"
                     }
                 }
             ],
@@ -262,258 +207,46 @@
                     "predicates": [
                         {
                             "type": "HYPERNYM",
-                            "name": "HYPER",
+                            "name": "IS_A",
                             "terms": [
-                                {
-                                    "name": [
-                                        "bn:00035583n"
-                                    ],
-                                    "type": "CONSTANT"
-                                },
                                 {
                                     "name": [
                                         "bn:00011081n"
                                     ],
                                     "type": "CONSTANT"
-                                }
-                            ],
-                            "is_deriv": true
-                        },
-                        {
-                            "type": "HYPERNYM",
-                            "name": "HYPER",
-                            "terms": [
-                                {
-                                    "name": [
-                                        "bn:00035583n"
-                                    ],
-                                    "type": "CONSTANT"
                                 },
                                 {
                                     "name": [
-                                        "bn:00005704n",
-                                        "bn:00573392n",
-                                        "bn:00034060n"
+                                        "bn:00077585n"
                                     ],
-                                    "type": "AGGREGATED_TERM"
+                                    "type": "CONSTANT"
                                 }
                             ],
-                            "is_deriv": false
+                            "is_deriv": true
                         }
                     ]
                 },
                 "terms": [
                     {
-                        "id": "bn:00005704n",
+                        "id": "bn:00077585n",
                         "occurrences": 1,
                         "full_repr": {
                             "name": [
-                                "bn:00005704n"
+                                "bn:00077585n"
                             ],
                             "type": "CONSTANT",
                             "babelNetEntity": {
-                                "main_sense": "weapon",
-                                "description": "Any instrument or instrumentality used in fighting or hunting",
+                                "main_sense": "tool",
+                                "description": "An implement used in the practice of a vocation",
                                 "synonyms": [
-                                    "arm",
-                                    "weapon_system",
-                                    "Medieval_weaponry",
-                                    "Weapons_and_munitions",
-                                    "Weapons_System",
-                                    "arm",
-                                    "WEAPONS",
-                                    "Weapon_systems",
-                                    "Military_Antiques",
-                                    "Makeshift_weapon",
-                                    "Weopan",
-                                    "Armaments",
-                                    "Armed",
-                                    "armament",
-                                    "Arms",
-                                    "Weapons",
-                                    "WEAPON",
-                                    "Weapons",
-                                    "Anti-fortification_weapon",
-                                    "arm",
-                                    "Close_range_weapon",
-                                    "Weaponized",
-                                    "Weapons_systems",
-                                    "armament",
-                                    "Defense_systems",
-                                    "Weaponary",
-                                    "The_evolution_of_weapons",
-                                    "Weapons_Systems",
-                                    "Weapons_system"
+                                    "Toolcase",
+                                    "Tools_and_equipment",
+                                    "Tool_user",
+                                    "Tools",
+                                    "\ud83d\udee0",
+                                    "Monkey_tools"
                                 ],
-                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Middelaldersv%C3%A6rd.jpg"
-                            }
-                        }
-                    },
-                    {
-                        "id": "bn:00573392n",
-                        "occurrences": 1,
-                        "full_repr": {
-                            "name": [
-                                "bn:00573392n"
-                            ],
-                            "type": "CONSTANT",
-                            "babelNetEntity": {
-                                "main_sense": "melee_weapon",
-                                "description": "A melee weapon or close combat weapon is any weapon used in direct hand-to-hand combat; by contrast with ranged weapons which act at a distance.",
-                                "synonyms": [
-                                    "m\u00eal\u00e9e_weapon",
-                                    "List_of_m\u00eal\u00e9e_weapons",
-                                    "List_of_M\u00eal\u00e9e_weapons",
-                                    "List_of_melee_weapons",
-                                    "List_of_Melee_weapons",
-                                    "close_combat_weapon",
-                                    "M\u00eal\u00e9e_weapons",
-                                    "Melee_weapon",
-                                    "M\u00eal\u00e9e_weapon",
-                                    "Melee_weapons"
-                                ],
-                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Old_Japanese_military_paraphernalia.jpg"
-                            }
-                        }
-                    },
-                    {
-                        "id": "bn:00034060n",
-                        "occurrences": 1,
-                        "full_repr": {
-                            "name": [
-                                "bn:00034060n"
-                            ],
-                            "type": "CONSTANT",
-                            "babelNetEntity": {
-                                "main_sense": "fencing_sword",
-                                "description": "A sword used in the sport of fencing",
-                                "synonyms": [],
-                                "image_url": "http://i0.sinaimg.cn/2008/fe/p/2008-08-22/U2398P461T5D246702F154DT20080822161658.jpg"
-                            }
-                        }
-                    },
-                    {
-                        "id": "bn:00011081n",
-                        "occurrences": 1,
-                        "full_repr": {
-                            "name": [
-                                "bn:00011081n"
-                            ],
-                            "type": "CONSTANT",
-                            "babelNetEntity": {
-                                "main_sense": "sword",
-                                "description": "A cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard",
-                                "synonyms": [
-                                    "Two_edges",
-                                    "History_of_the_steel_sword",
-                                    "One-edged_swords",
-                                    "Double-edge_swords",
-                                    "Single-edge_swords",
-                                    "Two_edge_sword",
-                                    "Singleedged_sword",
-                                    "Oneedged_swords",
-                                    "Bladed_weapons",
-                                    "Two-edge_sword",
-                                    "European_sword",
-                                    "Twoedge_swords",
-                                    "Single-edges",
-                                    "Doubleedge",
-                                    "One-edged_sword",
-                                    "Parts_of_the_sword",
-                                    "Single_edged_swords",
-                                    "Sword_Parts",
-                                    "Two_edged_swords",
-                                    "Two-edged_swords",
-                                    "Oneedge",
-                                    "Singleedged_swords",
-                                    "Two_edged",
-                                    "Two_edge_swords",
-                                    "Swords",
-                                    "Doubleedges",
-                                    "Twoedge_sword",
-                                    "One-edged",
-                                    "List_of_sword_parts",
-                                    "Data_of_the_sword",
-                                    "Single-edged_swords",
-                                    "Double-edge",
-                                    "Presentation_sword",
-                                    "Double_edge_sword",
-                                    "Twoedged",
-                                    "Twoedges",
-                                    "Double_edge_swords",
-                                    "Blade_weapon",
-                                    "Blade_weapons",
-                                    "Two_edged_sword",
-                                    "Doubleedged_sword",
-                                    "Singleedge_swords",
-                                    "Doubleedge_sword",
-                                    "Single_edge_swords",
-                                    "Parts_of_a_sword",
-                                    "Doubleedged",
-                                    "swordsman",
-                                    "rapier",
-                                    "swordsmanship",
-                                    "Swordplay",
-                                    "Swords",
-                                    "Singleedge_sword",
-                                    "Double_edged_swords",
-                                    "Double_edged_sword",
-                                    "Medieval_sword",
-                                    "Single_edge",
-                                    "One_edged_sword",
-                                    "Double-edged_swords",
-                                    "Twoedged_sword",
-                                    "Twoedged_swords",
-                                    "Two-edge_swords",
-                                    "Double-edges",
-                                    "Double-edged",
-                                    "Single_edge_sword",
-                                    "One_edged_swords",
-                                    "Singleedges",
-                                    "Singleedged",
-                                    "Two_edge",
-                                    "Double-edge_sword",
-                                    "One_edged",
-                                    "Single-edge_sword",
-                                    "Sword_(weapon)",
-                                    "One_edge",
-                                    "Training_sword",
-                                    "Sword_blades",
-                                    "Single-edge",
-                                    "Doubleedged_swords",
-                                    "Doubleedge_swords",
-                                    "Sword_belt",
-                                    "Single_edges",
-                                    "Single_edged",
-                                    "Energy_sword",
-                                    "Laser_sword",
-                                    "Energy_swords",
-                                    "Laser-beam_sword",
-                                    "Energy_Sword",
-                                    "Beam_sword",
-                                    "Laser_Sword",
-                                    "Beam_Sword",
-                                    "One-edge",
-                                    "Oneedged",
-                                    "Singleedge",
-                                    "Oneedged_sword",
-                                    "Medieval_European_sword",
-                                    "Two-edged",
-                                    "Single_edged_sword",
-                                    "Two-edged_sword",
-                                    "Two-edges",
-                                    "Twoedge",
-                                    "\u2694",
-                                    "Two-edge",
-                                    "Double_edges",
-                                    "European_medieval_sword",
-                                    "Double_edged",
-                                    "Double-edged_sword",
-                                    "steel",
-                                    "blade",
-                                    "brand"
-                                ],
-                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Middelaldersv%C3%A6rd.jpg"
+                                "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Gereedschapskist.jpg"
                             }
                         }
                     }
@@ -525,18 +258,18 @@
         "predicates": [
             {
                 "type": "HYPERNYM",
-                "name": "HYPER",
+                "name": "IS_A",
                 "terms": [
                     {
                         "name": [
-                            "bn:00681609n",
-                            "bn:00035583n"
+                            "bn:00042730n",
+                            "bn:00011081n"
                         ],
                         "type": "FREE_VARIABLE"
                     },
                     {
                         "name": [
-                            "bn:00011081n"
+                            "bn:00077585n"
                         ],
                         "type": "CONSTANT"
                     }
